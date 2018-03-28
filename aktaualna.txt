@@ -1,0 +1,260 @@
+#EXTINF:-1,(( POLAND ))
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12988.ts
+#EXTINF:-1,PL: Fightbox
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12939.ts
+#EXTINF:-1,PL: nSport
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12949.ts
+#EXTINF:-1,PL: Polsat
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12873.ts
+#EXTINF:-1,PL: Polsat Cafe
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12864.ts
+#EXTINF:-1,PL: Polsat Film
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12869.ts
+#EXTINF:-1,PL: Polsat Play
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12868.ts
+#EXTINF:-1,PL: Polsat Sport
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12948.ts
+#EXTINF:-1,PL: Polsat Sport Extra
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12947.ts
+#EXTINF:-1,PL: Romans Tv
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12867.ts
+#EXTINF:-1,PL: Sundance
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12866.ts
+#EXTINF:-1,PL: TVN Fabula
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12865.ts
+#EXTINF:-1,PL: TVP Sport
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12946.ts
+#EXTINF:-1,PL: 13 Ulica
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12987.ts
+#EXTINF:-1,PL: 4Fun TV
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12986.ts
+#EXTINF:-1,PL: Active Family
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12985.ts
+#EXTINF:-1,PL: Adventure
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12984.ts
+#EXTINF:-1,PL: Ale Kino
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12983.ts
+#EXTINF:-1,PL: Amazing
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12982.ts
+#EXTINF:-1,PL: Animal Planet
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12981.ts
+#EXTINF:-1,PL: ATM Rozrywka TV
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12980.ts
+#EXTINF:-1,PL: AXN
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12979.ts
+#EXTINF:-1,PL: AXN Black
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12978.ts
+#EXTINF:-1,PL: AXN Spin HD
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12977.ts
+#EXTINF:-1,PL: AXN White
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12976.ts
+#EXTINF:-1,PL: BBC Earth
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12975.ts
+#EXTINF:-1,PL: BBC HD
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12974.ts
+#EXTINF:-1,PL: Boomerang
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12973.ts
+#EXTINF:-1,PL: Canal
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12972.ts
+#EXTINF:-1,PL: Canal 1
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12971.ts
+#EXTINF:-1,PL: Canal Family
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12970.ts
+#EXTINF:-1,PL: Canal Film
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12969.ts
+#EXTINF:-1,PL: Canal Seriale
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12968.ts
+#EXTINF:-1,PL: Canal Sport
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12945.ts
+#EXTINF:-1,PL: Canal Sport 2
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12944.ts
+#EXTINF:-1,PL: Cartoon Network
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12967.ts
+#EXTINF:-1,PL: Cbeebies
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12966.ts
+#EXTINF:-1,PL: CBS Action
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12965.ts
+#EXTINF:-1,PL: CBS Reality
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12964.ts
+#EXTINF:-1,PL: CineMax 1
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12963.ts
+#EXTINF:-1,PL: Cinemax 2 HD
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12962.ts
+#EXTINF:-1,PL: Comedy Central
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12961.ts
+#EXTINF:-1,PL: Comedy Central Family
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12960.ts
+#EXTINF:-1,PL: Da Vinci Learning
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12959.ts
+#EXTINF:-1,PL: Disco Polo Music
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12958.ts
+#EXTINF:-1,PL: Discovery Channel
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12957.ts
+#EXTINF:-1,PL: Discovery Historia
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12956.ts
+#EXTINF:-1,PL: Discovery Science
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12955.ts
+#EXTINF:-1,PL: Disney Channel
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12954.ts
+#EXTINF:-1,PL: Disney Junior
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12953.ts
+#EXTINF:-1,PL: Disney XD
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12952.ts
+#EXTINF:-1,PL: DTX
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12951.ts
+#EXTINF:-1,PL: Eleven
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12943.ts
+#EXTINF:-1,PL: Eleven Extra
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12950.ts
+#EXTINF:-1,PL: Eleven Sports
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12942.ts
+#EXTINF:-1,PL: ESKA TV
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12935.ts
+#EXTINF:-1,PL: EuroSport 2
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12941.ts
+#EXTINF:-1,PL: Extreme Sports
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12940.ts
+#EXTINF:-1,PL: Filmbox
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12934.ts
+#EXTINF:-1,PL: Filmbox Action
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12933.ts
+#EXTINF:-1,PL: Filmbox Arthouse
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12932.ts
+#EXTINF:-1,PL: Filmbox Extra
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12931.ts
+#EXTINF:-1,PL: Filmbox Family
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12930.ts
+#EXTINF:-1,PL: Filmbox Premium
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12929.ts
+#EXTINF:-1,PL: Fokus TV
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12928.ts
+#EXTINF:-1,PL: Fox Comedy
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12927.ts
+#EXTINF:-1,PL: H2
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12926.ts
+#EXTINF:-1,PL: HBO 1
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12925.ts
+#EXTINF:-1,PL: HBO 2
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12924.ts
+#EXTINF:-1,PL: HBO 3
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12923.ts
+#EXTINF:-1,PL: HGTV
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12922.ts
+#EXTINF:-1,PL: HIP HOP TV
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12863.ts
+#EXTINF:-1,PL: History
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12921.ts
+#EXTINF:-1,PL: JimJam
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12920.ts
+#EXTINF:-1,PL: Kino Polska
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12919.ts
+#EXTINF:-1,PL: Kino Polska Muzyka
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12918.ts
+#EXTINF:-1,PL: Kuchnia
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12917.ts
+#EXTINF:-1,PL: Lech TV
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12916.ts
+#EXTINF:-1,PL: Lifetime
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12915.ts
+#EXTINF:-1,PL: Metro
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12914.ts
+#EXTINF:-1,PL: MiniMini
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12913.ts
+#EXTINF:-1,PL: Motorwizja
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12938.ts
+#EXTINF:-1,PL: MTV Polska
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12912.ts
+#EXTINF:-1,PL: Nat Geo
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12911.ts
+#EXTINF:-1,PL: Nat Geo People
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12910.ts
+#EXTINF:-1,PL: Nat Geo Wild
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12909.ts
+#EXTINF:-1,PL: Nick JR.
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12908.ts
+#EXTINF:-1,PL: Nickelodeon
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12907.ts
+#EXTINF:-1,PL: Paramount Channel
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12906.ts
+#EXTINF:-1,PL: Romance
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12905.ts
+#EXTINF:-1,PL: SciFi Universal
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12904.ts
+#EXTINF:-1,PL: Sport Klub
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12936.ts
+#EXTINF:-1,PL: Stars TV
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12903.ts
+#EXTINF:-1,PL: Super Polsat
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12902.ts
+#EXTINF:-1,PL: TeleToon
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12901.ts
+#EXTINF:-1,PL: TLC
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12900.ts
+#EXTINF:-1,PL: TNT
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12899.ts
+#EXTINF:-1,PL: Travel Channel
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12898.ts
+#EXTINF:-1,PL: TV 4
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12897.ts
+#EXTINF:-1,PL: TV 6
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12892.ts
+#EXTINF:-1,PL: TV Puls
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12896.ts
+#EXTINF:-1,PL: TV Republika
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12895.ts
+#EXTINF:-1,PL: TV Trwam
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12894.ts
+#EXTINF:-1,PL: TV4
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12893.ts
+#EXTINF:-1,PL: TVN
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12889.ts
+#EXTINF:-1,PL: TVN 24
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12891.ts
+#EXTINF:-1,PL: TVN 7
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12890.ts
+#EXTINF:-1,PL: TVN HD
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12888.ts
+#EXTINF:-1,PL: TVN Style
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12887.ts
+#EXTINF:-1,PL: TVN Turbo
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12886.ts
+#EXTINF:-1,PL: TVN24 BiS
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12885.ts
+#EXTINF:-1,PL: TVP
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12884.ts
+#EXTINF:-1,PL: TVP 1
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12883.ts
+#EXTINF:-1,PL: TVP 2
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12882.ts
+#EXTINF:-1,PL: TVP 3
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12881.ts
+#EXTINF:-1,PL: TVP ABC
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12880.ts
+#EXTINF:-1,PL: TVP Historia
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12879.ts
+#EXTINF:-1,PL: TVP Info
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12878.ts
+#EXTINF:-1,PL: TVP Kultura
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12877.ts
+#EXTINF:-1,PL: TVP Rozrywka
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12876.ts
+#EXTINF:-1,PL: TVP Seriale
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12875.ts
+#EXTINF:-1,PL: TVS
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12874.ts
+#EXTINF:-1,PL: Universal Channel
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12872.ts
+#EXTINF:-1,PL: VIVA Polska
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12871.ts
+#EXTINF:-1,PL: VOD 205
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12870.ts
+#EXTINF:-1,PL: VOD 206
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12862.ts
+#EXTINF:-1,PL: VOD 207
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12861.ts
+#EXTINF:-1,PL: VOD 208
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12860.ts
+#EXTINF:-1,PL: VOX Music TV
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12859.ts
+#EXTINF:-1,PL: WTK
+http://diogen.online:25461/live/hotel.vienna1/gT3mt797WL/12858.ts
