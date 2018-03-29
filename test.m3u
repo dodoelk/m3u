@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="http://epg.evai.pl/epg/epg.xml"
+#EXTINF:-1 tvg-id="Planete+" tvg-logo="http://s1.fotowrzut.pl/TDWAD7LD61/5.jpg" group-title="",Planete+ HD
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/386/index.m3u8
