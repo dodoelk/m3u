@@ -1,3 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.evai.pl/epg/epg.xml"
 #EXTINF:-1 tvg-id="Planete+" tvg-logo="http://s1.fotowrzut.pl/TDWAD7LD61/5.jpg" group-title="",Planete+ HD
 http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/386/index.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-logo="http://s1.fotowrzut.pl/KHWDBMZGX8/3.jpg" group-title="",E! Entertainment
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/897/index.m3u8
