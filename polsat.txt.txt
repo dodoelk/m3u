@@ -1,0 +1,20 @@
+#EXTINF:-1,Polsat
+http://2.61.77.178:6689/stream?cid=5969
+#EXTINF:-1,Polsat 2 HD
+http://2.61.77.178:6689/stream?cid=5947
+#EXTINF:-1,Polsat Cafe HD
+http://2.61.77.178:6689/stream?cid=5941
+#EXTINF:-1,Polsat Film
+http://2.61.77.178:6689/stream?cid=5799
+#EXTINF:-1,Polsat HD
+http://2.61.77.178:6689/stream?cid=5936
+#EXTINF:-1,Polsat News 2
+http://2.61.77.178:6689/stream?cid=5797
+#EXTINF:-1,Polsat News HD
+http://2.61.77.178:6689/stream?cid=5946
+#EXTINF:-1,Polsat Play HD
+http://2.61.77.178:6689/stream?cid=5943
+#EXTINF:-1,Polsat Sport
+http://2.61.77.178:6689/stream?cid=5973
+#EXTINF:-1,Polsat Sport Extra
+http://2.61.77.178:6689/stream?cid=5798
