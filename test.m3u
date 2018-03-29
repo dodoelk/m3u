@@ -7,3 +7,11 @@ http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/897/inde
 http://hls.redefine.pl/FF8EFB29/1503/0/hls720/masterlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport" tvg-logo="http://s1.fotowrzut.pl/KHWDBMZGX8/1.jpg" group-title="",Eurosport 1 HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/891/index.m3u8
+#EXTINF:-1 tvg-id="Polsat Play" tvg-logo="http://sharejunior.c0.pl/ico/Polsat_Play_HD_1.png" group-title="",Polsat Play HD
+http://hls.redefine.pl/66EB39A9/11379/0/hls720/masterlist.m3u8
+#EXTINF:-1 tvg-id="Polsat News" tvg-logo="http://sharejunior.c0.pl/ico/Polsat_News_HD_1.png" group-title="",Polsat News HD
+http://hls.redefine.pl/3C93EDDB/1574/0/hls720/masterlist.m3u8
+#EXTINF:-1 tvg-id="Polsat News 2" tvg-logo="http://sharejunior.c0.pl/ico/Polsat_News_2_1.png" group-title="",Polsat News 2
+http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
+#EXTINF:-1 tvg-id="Kino Polska" tvg-logo="http://s1.fotowrzut.pl/4IT42SOL8R/7.jpg" group-title="",Kino Polska
+http://hls.redefine.pl/76929AC6/1571/0/hls576/576p/list.m3u8
