@@ -15,3 +15,5 @@ http://hls.redefine.pl/3C93EDDB/1574/0/hls720/masterlist.m3u8
 http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
 #EXTINF:-1 tvg-id="Kino Polska" tvg-logo="http://s1.fotowrzut.pl/4IT42SOL8R/7.jpg" group-title="",Kino Polska
 http://hls.redefine.pl/76929AC6/1571/0/hls576/576p/list.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POLAND: TVN 24" tvg-logo="" group-title="POLAND",POLAND: TVN 24
+http://main.cctvlive.org:8000/live/dad/dad/9781.ts
