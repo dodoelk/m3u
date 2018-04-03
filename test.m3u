@@ -1,19 +1,67 @@
-#EXTM3U x-tvg-url="http://epg.evai.pl/epg/epg.xml"
-#EXTINF:0,Eurosport 1 HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/159/index.m3u8
-#EXTINF:0,Eurosport 1 HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/160/index.m3u8
-#EXTINF:-1 tvg-id="Polsat Sport" tvg-logo="http://s1.fotowrzut.pl/O2KML6SV9Q/3.jpg" group-title="",Polsat Sport HD
-http://hls.redefine.pl/FF8EFB29/1503/0/hls720/masterlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport" tvg-logo="http://s1.fotowrzut.pl/KHWDBMZGX8/1.jpg" group-title="",Eurosport 1 HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/891/index.m3u8
-#EXTINF:-1 tvg-id="Polsat Play" tvg-logo="http://sharejunior.c0.pl/ico/Polsat_Play_HD_1.png" group-title="",Polsat Play HD
-http://hls.redefine.pl/66EB39A9/11379/0/hls720/masterlist.m3u8
-#EXTINF:-1 tvg-id="Polsat News" tvg-logo="http://sharejunior.c0.pl/ico/Polsat_News_HD_1.png" group-title="",Polsat News HD
-http://hls.redefine.pl/3C93EDDB/1574/0/hls720/masterlist.m3u8
-#EXTINF:-1 tvg-id="Polsat News 2" tvg-logo="http://sharejunior.c0.pl/ico/Polsat_News_2_1.png" group-title="",Polsat News 2
-http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
-#EXTINF:-1 tvg-id="Kino Polska" tvg-logo="http://s1.fotowrzut.pl/4IT42SOL8R/7.jpg" group-title="",Kino Polska
-http://hls.redefine.pl/76929AC6/1571/0/hls576/576p/list.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POLAND: TVN 24" tvg-logo="" group-title="POLAND",POLAND: TVN 24
-http://main.cctvlive.org:8000/live/dad/dad/9781.ts
+#EXTM3U
+#EXTINF:-1,TVP3 Gorzow
+http://79.186.242.237:9981/stream/channelid/1275196335
+#EXTINF:-1,Polsat
+http://79.186.242.237:9981/stream/channelid/394094720
+#EXTINF:-1,TVN
+http://79.186.242.237:9981/stream/channelid/2085306755
+#EXTINF:-1,TV4
+http://79.186.242.237:9981/stream/channelid/736919121
+#EXTINF:-1,TV Puls
+http://79.186.242.237:9981/stream/channelid/1366730639
+#EXTINF:-1,TVN 7
+http://79.186.242.237:9981/stream/channelid/157869446
+#EXTINF:-1,PULS 2
+http://79.186.242.237:9981/stream/channelid/327382920
+#EXTINF:-1,TV6
+http://79.186.242.237:9981/stream/channelid/1706775006
+#EXTINF:-1,Super Polsat
+http://79.186.242.237:9981/stream/channelid/547905430
+#EXTINF:-1,ESKA TV
+http://79.186.242.237:9981/stream/channelid/1686927914
+#EXTINF:-1,TTV
+http://79.186.242.237:9981/stream/channelid/784892466
+#EXTINF:-1,Polo TV
+http://79.186.242.237:9981/stream/channelid/181139643
+#EXTINF:-1,ATM Rozrywka
+http://79.186.242.237:9981/stream/channelid/1013502042
+#EXTINF:-1,TV Trwam
+http://79.186.242.237:9981/stream/channelid/1610276985
+#EXTINF:-1,Stopklatka TV
+http://79.186.242.237:9981/stream/channelid/1788511575
+#EXTINF:-1,Fokus TV
+http://79.186.242.237:9981/stream/channelid/1260485525
+#EXTINF:-1,TVP ABC
+http://79.186.242.237:9981/stream/channelid/783581267
+#EXTINF:-1,TVP Kultura
+http://79.186.242.237:9981/stream/channelid/1161608650
+#EXTINF:-1,TVP Historia
+http://79.186.242.237:9981/stream/channelid/815697306
+#EXTINF:-1,TVP Rozrywka
+http://79.186.242.237:9981/stream/channelid/616713708
+#EXTINF:-1,TVP Info
+http://79.186.242.237:9981/stream/channelid/464324985
+#EXTINF:-1,Metro
+http://79.186.242.237:9981/stream/channelid/1580420895
+#EXTINF:-1,Zoom TV
+http://79.186.242.237:9981/stream/channelid/1573169615
+#EXTINF:-1,Nowa TV
+http://79.186.242.237:9981/stream/channelid/604988044
+#EXTINF:-1,WP
+http://79.186.242.237:9981/stream/channelid/84918052
+#EXTINF:-1,test1
+http://79.186.242.237:9981/stream/channelid/429733973
+#EXTINF:-1,test2
+http://79.186.242.237:9981/stream/channelid/1331070716
+#EXTINF:-1,test3
+http://79.186.242.237:9981/stream/channelid/1413056563
+#EXTINF:-1,test4
+http://79.186.242.237:9981/stream/channelid/1064548208
+#EXTINF:-1,test5
+http://79.186.242.237:9981/stream/channelid/1135687512
+#EXTINF:-1,test6
+http://79.186.242.237:9981/stream/channelid/2103127516
+#EXTINF:-1,test7
+http://79.186.242.237:9981/stream/channelid/130566593
+#EXTINF:-1,Test
+http://79.186.242.237:9981/stream/channelid/1321212162
