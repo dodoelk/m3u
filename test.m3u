@@ -1,82 +1,247 @@
-#EXTINF:-1,Polsat Music HD
-http://156.67.95.21:8000/play/a00k/index.m3u8
-#EXTINF:-1,FilmBox Premium HD
-http://156.67.95.21:8000/play/a00v/index.m3u8
-#EXTINF:-1,FilmBox Action
-http://156.67.95.21:8000/play/a00y/index.m3u8
-#EXTINF:-1,Cinemax HD
-http://156.67.95.21:8000/play/a003/index.m3u8
-#EXTINF:-1,AXN SPIN HD
-http://156.67.95.21:8000/play/a00s/index.m3u8
-#EXTINF:-1,TVP Kultura
-http://156.67.95.21:8000/play/a00o/index.m3u8
-#EXTINF:-1,VOX MUSIC TV
-http://156.67.95.21:8000/play/a00n/index.m3u8
-#EXTINF:-1,HBO3 HD
-http://156.67.95.21:8000/play/a01f/index.m3u8
-#EXTINF:-1,Kino Polska Muzyka
-http://156.67.95.21:8000/play/a013/index.m3u8
-#EXTINF:-1,TVP Historia
-http://156.67.95.21:8000/play/a010/index.m3u8
-#EXTINF:-1,HBO2 HD
-http://156.67.95.21:8000/play/a01e/index.m3u8
-#EXTINF:-1,TVP SERIALE
-http://156.67.95.21:8000/play/a00r/index.m3u8
-#EXTINF:-1,CBS Reality
-http://156.67.95.21:8000/play/a00q/index.m3u8
-#EXTINF:-1,Wellbeing
-http://156.67.95.21:8000/play/a008/index.m3u8
-#EXTINF:-1,TV6
-http://156.67.95.21:8000/play/a00j/index.m3u8
-#EXTINF:-1,TVP HD
-http://156.67.95.21:8000/play/a005/index.m3u8
-#EXTINF:-1,TVP Sport HD
-http://156.67.95.21:8000/play/a015/index.m3u8
-#EXTINF:-1,BBC HD
-http://156.67.95.21:8000/play/a01c/index.m3u8
-#EXTINF:-1,CBS Action
-http://156.67.95.21:8000/play/a00a/index.m3u8
-#EXTINF:-1,Sportklub HD
-http://156.67.95.21:8000/play/a014/index.m3u8
-#EXTINF:-1,TV Republika
-http://156.67.95.21:8000/play/a00d/index.m3u8
-#EXTINF:-1,WP
-http://156.67.95.21:8000/play/a00p/index.m3u8
-#EXTINF:-1,Stopklatka TV
-http://156.67.95.21:8000/play/a009/index.m3u8
-#EXTINF:-1,4Fun.TV
-http://156.67.95.21:8000/play/a00e/index.m3u8
-#EXTINF:-1,EskaROCK TV
-http://156.67.95.21:8000/play/a00x/index.m3u8
-#EXTINF:-1,Kino TV
-http://156.67.95.21:8000/play/a00w/index.m3u8
-#EXTINF:-1,Discovery Life HD
-http://156.67.95.21:8000/play/a00m/index.m3u8
-#EXTINF:-1,KINO POLSKA
-http://156.67.95.21:8000/play/a002/index.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://156.67.95.21:8000/play/a004/index.m3u8
-#EXTINF:-1,Discovery Historia
-http://156.67.95.21:8000/play/a016/index.m3u8
-#EXTINF:-1,Metro
-http://156.67.95.21:8000/play/a00b/index.m3u8
-#EXTINF:-1,Zoom TV
-http://156.67.95.21:8000/play/a00i/index.m3u8
-#EXTINF:-1,4Fun Gold Hits
-http://156.67.95.21:8000/play/a00f/index.m3u8
-#EXTINF:-1,4Fun Dance
-http://156.67.95.21:8000/play/a00g/index.m3u8
-#EXTINF:-1,BBC Earth HD
-http://156.67.95.21:8000/play/a01d/index.m3u8
-#EXTINF:-1,FilmBox Extra
-http://156.67.95.21:8000/play/a011/index.m3u8
-#EXTINF:-1,TVP Rozrywka
-http://156.67.95.21:8000/play/a00c/index.m3u8
-#EXTINF:-1,TVP INFO HD
-http://156.67.95.21:8000/play/a006/index.m3u8
-#EXTINF:-1,Epic Drama HD
-http://156.67.95.21:8000/play/a00h/index.m3u8
-#EXTINF:-1,TV PULS HD
-http://156.67.95.21:8000/play/a00z/index.m3u8
-#EXTINF:-1,TVP ABC
-http://156.67.95.21:8000/play/a00u/index.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="TVP1.pl" group-title="Channels",TVP 1 SD
+rtmp://198.16.72.242:1935/stream/2312L?e=1522570726&st=E7fDObJrdeiJQ9c1E0ux_w
+#EXTINF:0 tvg-id="TVP1.pl" group-title="Channels",TVP 1 HD
+rtmp://198.16.77.42:1935/stream/2312?e=1522570726&st=f4xas6Eym7eNWJdW1BbM-A
+#EXTINF:0 tvg-id="TVP2.pl" group-title="Channels",TVP 2 SD
+rtmp://185.142.236.81:1935/stream/2111L?e=1522570726&st=zsKGBhQnm1oftUIchC9u0A
+#EXTINF:0 tvg-id="TVP2.pl" group-title="Channels",TVP 2 HD
+rtmp://185.142.236.81:1935/stream/2111?e=1522570726&st=agrLIgJyDHCD4exgaHE5nQ
+#EXTINF:0 tvg-id="TVPABC.pl" group-title="Channels",TVP ABC SD
+rtmp://185.142.236.99:1935/stream/1113?e=1522570726&st=z7ONvE2u0nKpbCho_lqJnA
+#EXTINF:0 tvg-id="TVPHistoria.pl" group-title="Channels",TVP HISTORIA SD
+rtmp://185.142.236.99:1935/stream/1115?e=1522570726&st=8idhe_AahHZHN6ckkHQ9Yg
+#EXTINF:0 tvg-id="TVPInfo.pl" group-title="Channels",TVP INFO SD
+rtmp://185.142.236.99:1935/stream/1145?e=1522570726&st=uweYq1gw9W4J5uEGlam77g
+#EXTINF:0 tvg-id="TVPKultura.pl" group-title="Channels",TVP KULTURA SD
+rtmp://185.142.236.99:1935/stream/1116?e=1522570726&st=_MbS9kGoQ6kuClVKp9gKaA
+#EXTINF:0 tvg-id="TVPRozrywka.pl" group-title="Channels",TVP ROZRYWKA SD
+rtmp://185.142.236.99:1935/stream/1114?e=1522570726&st=a1f7x3gqmsR1K2tZBr7S4A
+#EXTINF:0 tvg-id="TVPSeriale.pl" group-title="Channels",TVP SERIALE SD
+rtmp://185.142.236.99:1935/stream/1150?e=1522570726&st=TM2vTgNLZU4Ryn4fSyFIYg
+#EXTINF:0 tvg-id="TVPSport.pl" group-title="Channels",TVP SPORT SD
+rtmp://185.142.236.99:1935/stream/2313L?e=1522570726&st=SdYs5fd-n5mlgLSRFclOEA
+#EXTINF:0 tvg-id="TVPSport.pl" group-title="Channels",TVP SPORT HD
+rtmp://185.142.236.99:1935/stream/2313?e=1522570726&st=qb6LuUaXI0YBKT-gD_nKzw
+#EXTINF:0 tvg-id="Polsat.pl" group-title="Channels",POLSAT SD
+rtmp://198.16.72.242:1935/stream/3413?e=1522570726&st=Ulya67Tws8jTqNPOvoE1dg
+#EXTINF:0 tvg-id="Polsat.pl" group-title="Channels",POLSAT HD
+rtmp://198.16.77.42:1935/stream/3413?e=1522570726&st=Ulya67Tws8jTqNPOvoE1dg
+#EXTINF:0 tvg-id="Polsat2.pl" group-title="Channels",POLSAT 2 SD
+rtmp://185.142.236.83:1935/stream/3711?e=1522570726&st=ezo1wx8gq0He3B6tkgTChw
+#EXTINF:0 tvg-id="PolsatFilm.pl" group-title="Channels",POLSAT FILM SD
+rtmp://198.16.77.42:1935/stream/3414L?e=1522570726&st=vKEc-dC-gyz26KfHWXLQWg
+#EXTINF:0 tvg-id="PolsatFilm.pl" group-title="Channels",POLSAT FILM HD
+rtmp://198.16.72.242:1935/stream/3414?e=1522570726&st=txSrU2xSzgm_wMS5CaRYnQ
+#EXTINF:0 tvg-id="JimJam.pl" group-title="Channels",POLSAT JIM JAM SD
+rtmp://198.16.72.242:1935/stream/2514?e=1522570726&st=HXnxWIM_5j7SJPo51MWf6w
+#EXTINF:0 tvg-id="PolsatNews.pl" group-title="Channels",POLSAT NEWS SD
+rtmp://185.142.236.81:1935/stream/1128?e=1522570726&st=QP-azrIIZHTYo3_wbAR6og
+#EXTINF:0 tvg-id="PolsatPlay.pl" group-title="Channels",POLSAT PLAY SD
+rtmp://198.16.77.42:1935/stream/1130?e=1522570726&st=IbZ3NgAgAEWopsN3DoHeZw
+#EXTINF:0 tvg-id="PolsatCafe.pl" group-title="Channels",Polsat Cafe SD
+rtmp://198.16.80.146:1935/stream/1127?e=1522570726&st=m50W--2MBoK-BhWxluR-Vg
+#EXTINF:0 tvg-id="PolsatSport.pl" group-title="Channels",Polsat Sport SD
+rtmp://198.16.77.42:1935/stream/1126?e=1522570726&st=iU_KPuBT6oUf_DESEh4-MQ
+#EXTINF:0 tvg-id="PolsatSportExtra.pl" group-title="Channels",Polsat sport Extra SD
+rtmp://198.16.72.242:1935/stream/1125?e=1522570726&st=Pqz025EpV1Ay9oicutFL8A
+#EXTINF:0 tvg-id="TTV.PL" group-title="Channels",TTV SD
+rtmp://185.142.236.83:1935/stream/1100?e=1522570726&st=VfRrE7q419SoWpfpkK5j8Q
+#EXTINF:0 tvg-id="TV4.pl" group-title="Channels",TV 4 SD
+rtmp://198.16.77.42:1935/stream/1103?e=1522570726&st=rODWrOPTUDeemepccH8GUg
+#EXTINF:0 tvg-id="TV6.pl" group-title="Channels",TV 6 SD
+rtmp://198.16.72.242:1935/stream/1104?e=1522570726&st=j3NhV_1-uZwwYG-X4qYgpg
+#EXTINF:0 tvg-id="TVPuls.pl" group-title="Channels",TV PULS SD
+rtmp://198.16.77.42:1935/stream/1101?e=1522570726&st=WAVWoY7si6zqLW5XHptteQ
+#EXTINF:0 tvg-id="TVPuls2.pl" group-title="Channels",TV PULS 2 SD
+rtmp://198.16.80.146:1935/stream/1102?e=1522570726&st=mKL_e9tjOKISMvqeSu-hNQ
+#EXTINF:0 tvg-id="TVN7.pl" group-title="Channels",TVN 7 SD
+rtmp://185.142.236.81:1935/stream/2213L?e=1522570726&st=83GTJ2C4LcabIFncjY8zXA
+#EXTINF:0 tvg-id="TVN7.pl" group-title="Channels",TVN 7 HD
+rtmp://185.142.236.81:1935/stream/2213?e=1522570726&st=_FY_aIIb6Z4St_yRi4SASA
+#EXTINF:0 tvg-id="TVNStyle.pl" group-title="Channels",TVN STYLE SD
+rtmp://185.142.236.83:1935/stream/2813L?e=1522570726&st=X9PAcooJ4h_BkqhDZQZIcw
+#EXTINF:0 tvg-id="TVNStyle.pl" group-title="Channels",TVN STYLE HD
+rtmp://185.142.236.83:1935/stream/2813?e=1522570726&st=VW6ni9SVa6I04gGZ6xZxlQ
+#EXTINF:0 tvg-id="TVNTurbo.pl" group-title="Channels",TVN TURBO SD
+rtmp://185.142.236.83:1935/stream/2311L?e=1522570726&st=mQUI94g5d8rqjeqkyvwLPg
+#EXTINF:0 tvg-id="TVNTurbo.pl" group-title="Channels",TVN TURBO HD
+rtmp://185.142.236.83:1935/stream/2311?e=1522570726&st=fCu6-WhklWPwItsYURCL7A
+#EXTINF:0 tvg-id="13Ulica.pl" group-title="Channels",13 ULICA HD
+rtmp://198.16.77.42:1935/stream/3312?e=1522570726&st=b8MlJHPKUtKLpiiqLNUU7A
+#EXTINF:0 tvg-id="4fun.pl" group-title="Channels",4FUN SD
+rtmp://198.16.72.242:1935/stream/1134?e=1522570726&st=okqDjPzNBAG4RCicQh392A
+#EXTINF:0 tvg-id="ATMRozrywka.pl" group-title="Channels",ATM ROZRYWKA SD
+rtmp://198.16.77.42:1935/stream/1105?e=1522570726&st=BwP03wBnC1OL2yhGNftHIQ
+#EXTINF:0 tvg-id="AXN.pl" group-title="Channels",AXN SD
+rtmp://198.16.80.146:1935/stream/2211L?e=1522570726&st=l8DfBhsFXJwBlmi0bfxUVQ
+#EXTINF:0 tvg-id="AXN.pl" group-title="Channels",AXN HD
+rtmp://198.16.72.242:1935/stream/2211?e=1522570726&st=2-idIl55KqT6ba9CfhBcsQ
+#EXTINF:0 tvg-id="AXNBlack.pl" group-title="Channels",AXN BLACK SD
+rtmp://198.16.77.42:1935/stream/1119?e=1522570726&st=2kLHsioncbUlKB_Ljjb1eQ
+#EXTINF:0 tvg-id="AXNSpinHD.pl" group-title="Channels",AXN SPIN SD
+rtmp://198.16.80.146:1935/stream/1118?e=1522570726&st=guaUEjAsYYa7ec27taHKIA
+#EXTINF:0 tvg-id="AXNWhite.pl" group-title="Channels",AXN WHITE SD
+rtmp://198.16.77.42:1935/stream/1120?e=1522570726&st=F82Q60mcK3bn1of2Ewgvug
+#EXTINF:0 tvg-id="BBCEarth.pl" group-title="Channels",BBC EARTH SD
+rtmp://198.16.72.226:1935/stream/2011L?e=1522570726&st=_JcMXoTzNkRepHLi5RpScQ
+#EXTINF:0 tvg-id="BBCEarth.pl" group-title="Channels",BBC EARTH HD
+rtmp://198.16.72.226:1935/stream/2011?e=1522570726&st=AlJrRTrWkdmpn0mSzJPmOQ
+#EXTINF:0 tvg-id="CanalplusFilm2.pl" group-title="Channels",CANAL+ SERIALE SD
+rtmp://185.142.236.83:1935/stream/3512L?e=1522570726&st=rMeVDMMutw7ld_SYfzyLsg
+#EXTINF:0 tvg-id="CanalplusFilm2.pl" group-title="Channels",CANAL+ SERIALE HD
+rtmp://185.142.236.83:1935/stream/3512?e=1522570726&st=yOFufB1xHxkvCXokYghboQ
+#EXTINF:0 tvg-id="CartoonNetwork.pl" group-title="Channels",CARTOON NETWORK SD
+rtmp://198.16.77.42:1935/stream/1143?e=1522570726&st=XOWJhhRBB6oVd5Oeh5ddUA
+#EXTINF:0 tvg-id="ComedyCentral.pl" group-title="Channels",COMEDY CENTRAL SD
+rtmp://198.16.80.146:1935/stream/3712?e=1522570726&st=TLdHA7vnrOp93p1aZMBrmQ
+#EXTINF:0 tvg-id="CanalplusSports.pl" group-title="Channels",Canal + Sport SD
+rtmp://185.142.236.81:1935/stream/3111L?e=1522570726&st=KH9gn8N0lP_E8SneZLoaiw
+#EXTINF:0 tvg-id="CanalplusSports.pl" group-title="Channels",Canal + Sport HD
+rtmp://185.142.236.81:1935/stream/3111?e=1522570726&st=qP3BX5_knWqFNIUvajSkDg
+#EXTINF:0 tvg-id="Canalplus.pl" group-title="Channels",Canal+ SD
+rtmp://185.142.236.99:1935/stream/3113L?e=1522570726&st=B3cTWg7jN1VVWbGjOeoKOQ
+#EXTINF:0 tvg-id="Canalplus.pl" group-title="Channels",Canal+ HD
+rtmp://185.142.236.99:1935/stream/3113?e=1522570726&st=YN6R_drVMNDfkHq1HJu3-Q
+#EXTINF:0 tvg-id="CanalplusFamily.pl" group-title="Channels",Canal+ Family SD
+rtmp://185.142.236.83:1935/stream/3513L?e=1522570726&st=rYeWRZTonAYt81e60jAhAQ
+#EXTINF:0 tvg-id="CanalplusFamily.pl" group-title="Channels",Canal+ Family HD
+rtmp://185.142.236.83:1935/stream/3513?e=1522570726&st=W7KerjAlqyi8mHPw3g79pQ
+#EXTINF:0 tvg-id="CanalplusFilm.pl" group-title="Channels",Canal+ Film SD
+rtmp://185.142.236.81:1935/stream/3511L?e=1522570726&st=Wf2nYwGX3YC3V38kiYBd2Q
+#EXTINF:0 tvg-id="CanalplusFilm.pl" group-title="Channels",Canal+ Film HD
+rtmp://185.142.236.81:1935/stream/3511?e=1522570726&st=_l89qqAwxz6mklTDOJKc_g
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="Channels",Canal+ Sport 2 SD
+rtmp://185.142.236.99:1935/stream/3211L?e=1522570726&st=6SQkQyAoINhqkb4YZwV8jQ
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="Channels",Canal+ Sport 2 HD
+rtmp://185.142.236.99:1935/stream/3211?e=1522570726&st=MXVP0JPEoPiGm8muixXMbg
+#EXTINF:0 tvg-id="Discovery.pl" group-title="Channels",DISCOVERY SD
+rtmp://198.16.72.242:1935/stream/1121?e=1522570726&st=61nvP8AfZHJ-lfAirvXAUA
+#EXTINF:0 tvg-id="DiscoveryLife.pl" group-title="Channels",DISCOVERY LIFE SD
+rtmp://198.16.80.146:1935/stream/1124?e=1522570726&st=YyC5rgeXFITXuJfNrxbQYg
+#EXTINF:0 tvg-id="DiscoveryScience.pl" group-title="Channels",DISCOVERY SCIENCE SD
+rtmp://198.16.80.146:1935/stream/1122?e=1522570726&st=vIJzvoCgWcuj-i9D3zginQ
+#EXTINF:0 tvg-id="DisneyChannel.pl" group-title="Channels",DISNEY CHANNEL SD
+rtmp://198.16.72.242:1935/stream/2713L?e=1522570726&st=wUsnRLSoqXV5ZNOPcn8a6A
+#EXTINF:0 tvg-id="DisneyChannel.pl" group-title="Channels",DISNEY CHANNEL HD
+rtmp://198.16.77.42:1935/stream/2713?e=1522570726&st=mI2MZErlYzWewLdJDIbbyw
+#EXTINF:0 tvg-id="DisneyJr.pl" group-title="Channels",DISNEY JUNIOR SD
+rtmp://198.16.80.146:1935/stream/2413?e=1522570726&st=wYfU88dLa3uqLW7uDnuYGQ
+#EXTINF:0 tvg-id="DisneyXD.pl" group-title="Channels",DISNEY XD SD
+rtmp://198.16.80.146:1935/stream/2714?e=1522570726&st=o9Cl9GwdgItPX6udWVUFyw
+#EXTINF:0 tvg-id="DiscoveryTurboXtra.pl" group-title="Channels",DTX SD
+rtmp://198.16.77.42:1935/stream/1123?e=1522570726&st=NQqWI3qJfJC0oaBLkfwgvQ
+#EXTINF:0 tvg-id="DuckTV.pl" group-title="Channels",DUCK TV SD
+rtmp://198.16.72.242:1935/stream/1133?e=1522570726&st=Hb5i-UKgkRuBh_9q5GCzjA
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",ELEVEN SPORTS 1 SD
+rtmp://198.16.72.242:1935/stream/3613L?e=1522570726&st=esukoSayr4E7-VNLBCF1HQ
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",ELEVEN SPORTS 1 HD
+rtmp://198.16.72.242:1935/stream/3613?e=1522570726&st=XuAHWtIIv3zZutQrdOV0AA
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",ELEVEN SPORTS 2 SD
+rtmp://185.142.236.99:1935/stream/3013L?e=1522570726&st=Yb7arpMOtalaqAscPogx7Q
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",ELEVEN SPORTS 2 HD
+rtmp://185.142.236.99:1935/stream/3013?e=1522570726&st=nGg7Pkz5RtwYaD6gw2UFOg
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",ELEVEN SPORTS 3 SD
+rtmp://198.16.77.42:1935/stream/3411L?e=1522570726&st=Kqi8slKDN5cBayq-EDNH5g
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",ELEVEN SPORTS 3 HD
+rtmp://198.16.77.42:1935/stream/3411?e=1522570726&st=Ac5L5tpek0j6kK7p7S8vpg
+#EXTINF:0 tvg-id="EskaTV.pl" group-title="Channels",ESKA TV SD
+rtmp://198.16.80.146:1935/stream/1109?e=1522570726&st=87FjZbSTOAvpYfKDdhiuLQ
+#EXTINF:0 tvg-id="Eurosport.pl" group-title="Channels",EUROSPORT SD
+rtmp://198.16.77.42:1935/stream/3313L?e=1522570726&st=7jsRUcmUsqVB6lg69uQ1fQ
+#EXTINF:0 tvg-id="Eurosport2.pl" group-title="Channels",EUROSPORT HD
+rtmp://198.16.77.42:1935/stream/3313?e=1522570726&st=K9-rLcU3VduIUYt6pdaeYA
+#EXTINF:0 tvg-id="Eurosport2.pl" group-title="Channels",EUROSPORT 2 SD
+rtmp://198.16.77.42:1935/stream/2513L?e=1522570726&st=kCRdZ9KkabEBoROhNK1OsQ
+#EXTINF:0 tvg-id="Eurosport2.pl" group-title="Channels",EUROSPORT 2 HD
+rtmp://198.16.80.146:1935/stream/2513?e=1522570726&st=MHgd5SBFamJDdyLygcf1AQ
+#EXTINF:0 tvg-id="ExtremeSports.eu" group-title="Channels",EXTREME SPORTS CHANNEL SD
+rtmp://198.16.72.242:1935/stream/2511L?e=1522570726&st=dIXXMTmgGFf2adyA1GfWaA
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXTREME SPORTS CHANNEL HD
+rtmp://198.16.72.242:1935/stream/2511?e=1522570726&st=wXfud0Ycuot6rw6Q2Zr5Cg
+#EXTINF:0 tvg-id="KinoTV.pl" group-title="Channels",FILMBOX SD
+rtmp://198.16.72.242:1935/stream/1137?e=1522570726&st=s9PYeFE9eWIzl6ei9P5clQ
+#EXTINF:0 tvg-id="FilmboxAction.pl" group-title="Channels",FILMBOX ACTION SD
+rtmp://198.16.80.146:1935/stream/1139?e=1522570726&st=0qpatfaG6Kl7dIg0orF3yg
+#EXTINF:0 tvg-id="FilmboxFamily.pl" group-title="Channels",FILMBOX FAMILY SD
+rtmp://198.16.72.242:1935/stream/1138?e=1522570726&st=_hIGheWNG9m2Ni4lQgI17g
+#EXTINF:0 tvg-id="FilmboxPremium.pl" group-title="Channels",FILMBOX PREMIUM SD
+rtmp://198.16.72.242:1935/stream/1144?e=1522570726&st=VAt1T-27Hs98dBU_LEDxBg
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILMY NOWE SD
+rtmp://198.16.72.242:1935/stream/0003?e=1522570726&st=YJ4D2tqPQQkReMYH1xSkSw
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILMY NOWE HD
+rtmp://198.16.72.242:1935/stream/0003?e=1522570726&st=YJ4D2tqPQQkReMYH1xSkSw
+#EXTINF:0 tvg-id="Fox.pl" group-title="Channels",FOX SD
+rtmp://198.16.72.242:1935/stream/2113L?e=1522570726&st=V1EfciGBS3OcYwehg1PNSg
+#EXTINF:0 tvg-id="Fox.pl" group-title="Channels",FOX HD
+rtmp://198.16.72.242:1935/stream/2113?e=1522570726&st=maIU5wApvogdfiLgYG-4VQ
+#EXTINF:0 tvg-id="HBO.pl" group-title="Channels",HBO SD
+rtmp://198.16.77.42:1935/stream/2112L?e=1522570726&st=_EvHKytmO4FelmDHBqmsHA
+#EXTINF:0 tvg-id="HBO.pl" group-title="Channels",HBO HD
+rtmp://198.16.77.42:1935/stream/2112?e=1522570726&st=XwB16-dKArtkxoOFFVxtOQ
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO 2 SD
+rtmp://198.16.80.146:1935/stream/2013L?e=1522570726&st=3_XZJyknNEsa3gaJLxdDiA
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO 2 HD
+rtmp://198.16.72.242:1935/stream/2013?e=1522570726&st=zvFR5bXUAVZU46bWyKjZXg
+#EXTINF:0 tvg-id="HBO3.pl" group-title="Channels",HBO 3 SD
+rtmp://198.16.72.242:1935/stream/2012L?e=1522570726&st=37azuGPYv4QfixwTrTM8Vg
+#EXTINF:0 tvg-id="HBO3.pl" group-title="Channels",HBO 3 HD
+rtmp://198.16.80.146:1935/stream/2012?e=1522570726&st=43sjl_c7cSt_GZY3TyDkzw
+#EXTINF:0 tvg-id="InvestigationDiscovery.pl" group-title="Channels",ID SD
+rtmp://198.16.72.242:1935/stream/2512L?e=1522570726&st=mH1YXfhxlhZfrp9ZeJSIQA
+#EXTINF:0 tvg-id="InvestigationDiscovery.pl" group-title="Channels",ID HD
+rtmp://198.16.72.242:1935/stream/2512?e=1522570726&st=YLouRDyTrFPz3VG_m2D2HA
+#EXTINF:0 tvg-id="KinoPolska.pl" group-title="Channels",KINO POLSKA SD
+rtmp://198.16.72.242:1935/stream/1132?e=1522570726&st=NJo4WFxu8Adx5RUYVQftDA
+#EXTINF:0 tvg-id="Lifetime.pl" group-title="Channels",LIFETIME SD
+rtmp://198.16.77.42:1935/stream/3012L?e=1522570726&st=qxo91s-fSVem6gelVOiItQ
+#EXTINF:0 tvg-id="Lifetime.pl" group-title="Channels",LIFETIME HD
+rtmp://198.16.72.242:1935/stream/3012?e=1522570726&st=JsevuPhdujV2WbqxTW2xcA
+#EXTINF:0 tvg-id="Metro.pl" group-title="Channels",METRO TV SD
+rtmp://198.16.77.42:1935/stream/1260?e=1522570726&st=SzjB4Aesy28rlrgkuC_-lg
+#EXTINF:0 tvg-id="MTV.pl" group-title="Channels",MTV SD
+rtmp://198.16.72.242:1935/stream/3112L?e=1522570726&st=KsJyB7jwJ-ttKQRhhutGjQ
+#EXTINF:0 tvg-id="MTV.pl" group-title="Channels",MTV HD
+rtmp://198.16.80.146:1935/stream/3112?e=1522570726&st=C5LV5oPgkuiJFs-8L7znjw
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mini mini+ SD
+rtmp://185.142.236.99:1935/stream/1140?e=1522570726&st=etpQ3KkUZODQ1SUscUWvVg
+#EXTINF:0 tvg-id="natgeo" group-title="Channels",NAT GEO CHANNEL SD
+rtmp://198.16.77.42:1935/stream/3614L?e=1522570726&st=d8EW0JlPEDHCItNNx2iu0w
+#EXTINF:0 tvg-id="NatGeoHD.al" group-title="Channels",NAT GEO CHANNEL HD
+rtmp://198.16.72.242:1935/stream/3614?e=1522570726&st=koGdsrZByNapHUivaJDVxw
+#EXTINF:0 tvg-id="NatGeoPeople.pl" group-title="Channels",NAT GEO PEOPLE SD
+rtmp://198.16.72.242:1935/stream/2412L?e=1522570726&st=W4YS_ZCRh-UA3uvhg16S3Q
+#EXTINF:0 tvg-id="NatGeoPeople.pl" group-title="Channels",NAT GEO PEOPLE HD
+rtmp://198.16.72.242:1935/stream/2412?e=1522570726&st=3A-5LmumSgee_25MbW-OSA
+#EXTINF:0 tvg-id="NatGeoWildHD.pl" group-title="Channels",NAT GEO WILD SD
+rtmp://198.16.77.42:1935/stream/1142?e=1522570726&st=P1oLEuKSM9uCRfiprIlREg
+#EXTINF:0 tvg-id="NickPolska.pl" group-title="Channels",NICKELODEON SD
+rtmp://198.16.77.42:1935/stream/3612L?e=1522570726&st=6zFHuG-nPQ_zjs_G0a5yzg
+#EXTINF:0 tvg-id="NickelodeonHD.pl" group-title="Channels",NICKELODEON HD
+rtmp://198.16.72.242:1935/stream/3612?e=1522570726&st=INi1OqX9ifoLuHY4TA6Yvg
+#EXTINF:0 tvg-id="NowaTV.pl" group-title="Channels",NOWA TV SD
+rtmp://198.16.72.242:1935/stream/1110?e=1522570726&st=ggEP6WRxnQ5KUkAXYHKnFg
+#EXTINF:0 tvg-id="NickJr.pl" group-title="Channels",Nick Jr SD
+rtmp://198.16.80.146:1935/stream/3415?e=1522570726&st=Gn_BtDjmxi6VrJVLN0s4vA
+#EXTINF:0 tvg-id="nsport.pl" group-title="Channels",Nsport SD
+rtmp://185.142.236.81:1935/stream/2712L?e=1522570726&st=j3hRk4gurCpD4H2lyTUEhQ
+#EXTINF:0 tvg-id="nsport.pl" group-title="Channels",Nsport HD
+rtmp://185.142.236.81:1935/stream/2712?e=1522570726&st=3kX347cC8v-sVOjtBKk9tw
+#EXTINF:0 tvg-id="ext" group-title="Channels",REPUBLIKA TV SD
+rtmp://198.16.77.42:1935/stream/1131?e=1522570726&st=-e39XWguGVjXwCZhIVO0Gw
+#EXTINF:0 tvg-id="StopklatkaTV.pl" group-title="Channels",STOPKLATKA SD
+rtmp://198.16.80.146:1935/stream/1106?e=1522570726&st=9dtdFSvHbikZCTrl6OIQ7A
+#EXTINF:0 tvg-id="SuperPolsat.pl" group-title="Channels",SUPER POLSAT SD
+rtmp://198.16.77.42:1935/stream/1108?e=1522570726&st=5yrqKpMZ3pnADRRAWJO7eQ
+#EXTINF:0 tvg-id="Superstacja.pl" group-title="Channels",SUPERSTACJA SD
+rtmp://198.16.80.146:1935/stream/1129?e=1522570726&st=eywNJW2ZFMPQwMj3GxKp3Q
+#EXTINF:0 tvg-id="TLC.pl" group-title="Channels",TLC SD
+rtmp://198.16.72.242:1935/stream/3311L?e=1522570726&st=PbObcKjCfG33Ao_BkfeyrQ
+#EXTINF:0 tvg-id="TLC.pl" group-title="Channels",TLC HD
+rtmp://198.16.77.42:1935/stream/3311?e=1522570726&st=azmrKLsTMpRUNRyhAczMdQ
+#EXTINF:0 tvg-id="Travel.pl" group-title="Channels",TRAVEL CHANNEL SD
+rtmp://185.142.236.81:1935/stream/2811L?e=1522570726&st=BZ2BDICGuyM2AVuOKcMamw
+#EXTINF:0 tvg-id="Travel.pl" group-title="Channels",TRAVEL CHANNEL HD
+rtmp://185.142.236.81:1935/stream/2811?e=1522570726&st=rErIjikpLmupYxF2WCXN6g
+#EXTINF:0 tvg-id="ZoomTV.pl" group-title="Channels",ZOOM TV SD
+rtmp://198.16.80.146:1935/stream/1111?e=1522570726&st=w87iyavOFeXOfwIGaXx4yA
