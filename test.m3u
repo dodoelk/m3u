@@ -1,342 +1,222 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PL: 13 Ulica HD" tvg-logo="" group-title="POL",PL: 13 Ulica HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12901.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: 4FUN Dance" tvg-logo="" group-title="POL",PL: 4FUN Dance
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12865.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: 4FUN Gold" tvg-logo="" group-title="POL",PL: 4FUN Gold
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12864.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: 4FUN TV" tvg-logo="" group-title="POL",PL: 4FUN TV
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12863.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Ale Kino  FHD" tvg-logo="" group-title="POL",PL: Ale Kino  FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12948.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Ale Kino  HD" tvg-logo="" group-title="POL",PL: Ale Kino  HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12910.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Animal anet HD" tvg-logo="" group-title="POL",PL: Animal anet HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12883.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: ANIMAL PLANET HD" tvg-logo="" group-title="POL",PL: ANIMAL PLANET HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12949.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: ATM Rozrywka" tvg-logo="" group-title="POL",PL: ATM Rozrywka
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12882.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: AXN Black HD" tvg-logo="" group-title="POL",PL: AXN Black HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12991.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: AXN FHD" tvg-logo="" group-title="POL",PL: AXN FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12881.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: AXN HD" tvg-logo="" group-title="POL",PL: AXN HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13020.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: AXN White HD" tvg-logo="" group-title="POL",PL: AXN White HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12990.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Baby TV" tvg-logo="" group-title="POL",PL: Baby TV
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12880.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: BBC EARTH HD" tvg-logo="" group-title="POL",PL: BBC EARTH HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12988.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: BBC HD" tvg-logo="" group-title="POL",PL: BBC HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12989.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: BOOMERANG" tvg-logo="" group-title="POL",PL: BOOMERANG
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12947.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal  1 HD" tvg-logo="" group-title="POL",PL: Canal  1 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12900.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal  Discovery FHD" tvg-logo="" group-title="POL",PL: Canal  Discovery FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12945.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL  DISCOVERY HD" tvg-logo="" group-title="POL",PL: CANAL  DISCOVERY HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12985.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL  FAMILY HD" tvg-logo="" group-title="POL",PL: CANAL  FAMILY HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13013.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal  FHD" tvg-logo="" group-title="POL",PL: Canal  FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12946.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL  FILM HD" tvg-logo="" group-title="POL",PL: CANAL  FILM HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13012.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL  HD" tvg-logo="" group-title="POL",PL: CANAL  HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13011.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal  Seriale FHD" tvg-logo="" group-title="POL",PL: Canal  Seriale FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12939.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL  SERIALE HD" tvg-logo="" group-title="POL",PL: CANAL  SERIALE HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13014.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal  Sport 2 FHD" tvg-logo="" group-title="POL",PL: Canal  Sport 2 FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12944.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL  SPORT 2 HD" tvg-logo="" group-title="POL",PL: CANAL  SPORT 2 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12986.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal  Sport FHD" tvg-logo="" group-title="POL",PL: Canal  Sport FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12943.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Canal  Sport HD" tvg-logo="" group-title="POL",PL: Canal  Sport HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12987.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL FAMILI HD" tvg-logo="" group-title="POL",PL: CANAL FAMILI HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12909.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: CARTOON NETWORK HD" tvg-logo="" group-title="POL",PL: CARTOON NETWORK HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12984.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: CBS Action" tvg-logo="" group-title="POL",PL: CBS Action
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12879.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: CBS REALITY HD" tvg-logo="" group-title="POL",PL: CBS REALITY HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12983.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: CC FAMILI HD" tvg-logo="" group-title="POL",PL: CC FAMILI HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12908.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: CC Family" tvg-logo="" group-title="POL",PL: CC Family
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12878.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Cinemax 2 HD" tvg-logo="" group-title="POL",PL: Cinemax 2 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12981.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: CINEMAX HD" tvg-logo="" group-title="POL",PL: CINEMAX HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12982.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Cinemax HD 1" tvg-logo="" group-title="POL",PL: Cinemax HD 1
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12997.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: COMEDY CENTRAL HD" tvg-logo="" group-title="POL",PL: COMEDY CENTRAL HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12980.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Crime and Investigation" tvg-logo="" group-title="POL",PL: Crime and Investigation
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12877.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Da Vinci Learning" tvg-logo="" group-title="POL",PL: Da Vinci Learning
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13008.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Disco Polo Music HD" tvg-logo="" group-title="POL",PL: Disco Polo Music HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12876.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: DISCOVERY HD" tvg-logo="" group-title="POL",PL: DISCOVERY HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12940.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Discovery Historia" tvg-logo="" group-title="POL",PL: Discovery Historia
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12875.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Discovery Science HD" tvg-logo="" group-title="POL",PL: Discovery Science HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12874.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: DISCOVERY TURBO XTRA" tvg-logo="" group-title="POL",PL: DISCOVERY TURBO XTRA
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12941.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Disney Channel HD" tvg-logo="" group-title="POL",PL: Disney Channel HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12899.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Disney JR" tvg-logo="" group-title="POL",PL: Disney JR
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12942.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Disney XD" tvg-logo="" group-title="POL",PL: Disney XD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12873.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: DTX" tvg-logo="" group-title="POL",PL: DTX
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12872.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN EXTRA HD" tvg-logo="" group-title="POL",PL: ELEVEN EXTRA HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12957.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN HD" tvg-logo="" group-title="POL",PL: ELEVEN HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12938.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORT" tvg-logo="" group-title="POL",PL: ELEVEN SPORT
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12935.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 1 HD" tvg-logo="" group-title="POL",PL: Eleven Sports 1 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12955.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 2 HD" tvg-logo="" group-title="POL",PL: Eleven Sports 2 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12954.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 3 HD" tvg-logo="" group-title="POL",PL: Eleven Sports 3 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12953.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 4 HD" tvg-logo="" group-title="POL",PL: Eleven Sports 4 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12952.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN SPORTS HD" tvg-logo="" group-title="POL",PL: ELEVEN SPORTS HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12916.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eska Best Music TV" tvg-logo="" group-title="POL",PL: Eska Best Music TV
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12861.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eska Best Music TV (Old's Cool)" tvg-logo="" group-title="POL",PL: Eska Best Music TV (Old's Cool)
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12860.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eska Party TV" tvg-logo="" group-title="POL",PL: Eska Party TV
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12862.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eurosport 1 HD" tvg-logo="" group-title="POL",PL: Eurosport 1 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12979.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: EuroSport 2 FHD" tvg-logo="" group-title="POL",PL: EuroSport 2 FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12936.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eurosport 2 HD" tvg-logo="" group-title="POL",PL: Eurosport 2 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12978.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eurosport 3 HD" tvg-logo="" group-title="POL",PL: Eurosport 3 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12869.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Eurosport 4 HD" tvg-logo="" group-title="POL",PL: Eurosport 4 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12868.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: EUROSPORT FHD" tvg-logo="" group-title="POL",PL: EUROSPORT FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12937.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: EUROSPORTS 2 HD" tvg-logo="" group-title="POL",PL: EUROSPORTS 2 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12906.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: EUROSPORTS HD" tvg-logo="" group-title="POL",PL: EUROSPORTS HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12907.ts
-#EXTINF:-1 tvg-id="Extreme Sports Channel HD PL" tvg-name="PL: Extreme Sports HD" tvg-logo="" group-title="POL",PL: Extreme Sports HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13023.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Fightbox" tvg-logo="" group-title="POL",PL: Fightbox
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12930.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: FILMBOX ACTION HD" tvg-logo="" group-title="POL",PL: FILMBOX ACTION HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12976.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: FILMBOX EXTRA" tvg-logo="" group-title="POL",PL: FILMBOX EXTRA
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12922.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: FILMBOX FAMILY HD" tvg-logo="" group-title="POL",PL: FILMBOX FAMILY HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12975.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: FILMBOX HD" tvg-logo="" group-title="POL",PL: FILMBOX HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12977.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: FILMBOX PREIMUIM" tvg-logo="" group-title="POL",PL: FILMBOX PREIMUIM
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12974.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: FILMBOX PREMIER" tvg-logo="" group-title="POL",PL: FILMBOX PREMIER
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12973.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: FILMBOX PREMIUM HD" tvg-logo="" group-title="POL",PL: FILMBOX PREMIUM HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13019.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Fokus TV" tvg-logo="" group-title="POL",PL: Fokus TV
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12898.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO 1 HD" tvg-logo="" group-title="POL",PL: HBO 1 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12972.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO 2 HD" tvg-logo="" group-title="POL",PL: HBO 2 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12971.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO 3 HD" tvg-logo="" group-title="POL",PL: HBO 3 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12970.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO HD" tvg-logo="" group-title="POL",PL: HBO HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12926.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: History" tvg-logo="" group-title="POL",PL: History
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12897.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Jim Jam" tvg-logo="" group-title="POL",PL: Jim Jam
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12919.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Kino Polska" tvg-logo="" group-title="POL",PL: Kino Polska
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13018.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Kino TV" tvg-logo="" group-title="POL",PL: Kino TV
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12896.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Kuchnia  HD" tvg-logo="" group-title="POL",PL: Kuchnia  HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12920.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Lifetime HD" tvg-logo="" group-title="POL",PL: Lifetime HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12856.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: MiniMini  FHD" tvg-logo="" group-title="POL",PL: MiniMini  FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12931.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: MiniMini  HD" tvg-logo="" group-title="POL",PL: MiniMini  HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13024.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: MTV MUSIC Polska" tvg-logo="" group-title="POL",PL: MTV MUSIC Polska
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13015.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: MTV Polska 1" tvg-logo="" group-title="POL",PL: MTV Polska 1
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12996.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Music Vox Tv" tvg-logo="" group-title="POL",PL: Music Vox Tv
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12859.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: N SPORTS HD" tvg-logo="" group-title="POL",PL: N SPORTS HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12905.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: NAT GEO FHD" tvg-logo="" group-title="POL",PL: NAT GEO FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12917.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: NAT GEO HD" tvg-logo="" group-title="POL",PL: NAT GEO HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13021.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: NAT GEO WILD HD" tvg-logo="" group-title="POL",PL: NAT GEO WILD HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13022.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: NICK Junior" tvg-logo="" group-title="POL",PL: NICK Junior
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13017.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Nickelodeon HD" tvg-logo="" group-title="POL",PL: Nickelodeon HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13016.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: nSport  HD" tvg-logo="" group-title="POL",PL: nSport  HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12969.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Paramount Channel HD" tvg-logo="" group-title="POL",PL: Paramount Channel HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13006.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: PL: WP" tvg-logo="" group-title="POL",PL: PL: WP
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12911.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Planete  HD" tvg-logo="" group-title="POL",PL: Planete  HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12895.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polo Party TV" tvg-logo="" group-title="POL",PL: Polo Party TV
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12858.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT 1 HD" tvg-logo="" group-title="POL",PL: POLSAT 1 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12968.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT 2 HD" tvg-logo="" group-title="POL",PL: POLSAT 2 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13001.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Cafe FHD" tvg-logo="" group-title="POL",PL: Polsat Cafe FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12929.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Cafe HD" tvg-logo="" group-title="POL",PL: Polsat Cafe HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13005.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT FILM HD" tvg-logo="" group-title="POL",PL: POLSAT FILM HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13004.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT FOOD HD" tvg-logo="" group-title="POL",PL: POLSAT FOOD HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12967.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat HD" tvg-logo="" group-title="POL",PL: Polsat HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13000.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT NEWS 2 HD" tvg-logo="" group-title="POL",PL: POLSAT NEWS 2 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12904.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT NEWS HD" tvg-logo="" group-title="POL",PL: POLSAT NEWS HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13003.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT PLAY HD" tvg-logo="" group-title="POL",PL: POLSAT PLAY HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13002.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT ROMAN HD" tvg-logo="" group-title="POL",PL: POLSAT ROMAN HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12903.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT ROMANS" tvg-logo="" group-title="POL",PL: POLSAT ROMANS
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12966.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Extra HD" tvg-logo="" group-title="POL",PL: Polsat Sport Extra HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12964.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Fight SD" tvg-logo="" group-title="POL",PL: Polsat Sport Fight SD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12951.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport HD" tvg-logo="" group-title="POL",PL: Polsat Sport HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12965.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport News HD" tvg-logo="" group-title="POL",PL: Polsat Sport News HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12950.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORTS EXTRA HD" tvg-logo="" group-title="POL",PL: POLSAT SPORTS EXTRA HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12902.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORTS HD" tvg-logo="" group-title="POL",PL: POLSAT SPORTS HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12932.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORTS NEWS" tvg-logo="" group-title="POL",PL: POLSAT SPORTS NEWS
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12963.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Viasat Explore HD" tvg-logo="" group-title="POL",PL: Polsat Viasat Explore HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12894.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Viasat History" tvg-logo="" group-title="POL",PL: Polsat Viasat History
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12893.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Viasat Nature" tvg-logo="" group-title="POL",PL: Polsat Viasat Nature
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12892.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Polsatay" tvg-logo="" group-title="POL",PL: Polsatay
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12855.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: SCI Discovery Science HD" tvg-logo="" group-title="POL",PL: SCI Discovery Science HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12891.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: SciFi" tvg-logo="" group-title="POL",PL: SciFi
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12890.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Stopklatka TV" tvg-logo="" group-title="POL",PL: Stopklatka TV
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12934.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Sundance TV" tvg-logo="" group-title="POL",PL: Sundance TV
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12889.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Superstacja" tvg-logo="" group-title="POL",PL: Superstacja
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12888.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TLC HD" tvg-logo="" group-title="POL",PL: TLC HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12933.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TNT HD" tvg-logo="" group-title="POL",PL: TNT HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12915.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TNT HD 1" tvg-logo="" group-title="POL",PL: TNT HD 1
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12995.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Travel Channel HD" tvg-logo="" group-title="POL",PL: Travel Channel HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12887.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TV Asta HD" tvg-logo="" group-title="POL",PL: TV Asta HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12886.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TV Puls HD" tvg-logo="" group-title="POL",PL: TV Puls HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12885.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TV4 HD" tvg-logo="" group-title="POL",PL: TV4 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12914.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TV6 FHD" tvg-logo="" group-title="POL",PL: TV6 FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12925.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVN 24 FHD" tvg-logo="" group-title="POL",PL: TVN 24 FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12928.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVN 24 HD" tvg-logo="" group-title="POL",PL: TVN 24 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13010.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVN Fabu?a FHD" tvg-logo="" group-title="POL",PL: TVN Fabu?a FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12923.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVN FHD" tvg-logo="" group-title="POL",PL: TVN FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12918.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVN HD" tvg-logo="" group-title="POL",PL: TVN HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12913.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVN Style HD" tvg-logo="" group-title="POL",PL: TVN Style HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13009.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVN Turbo HD" tvg-logo="" group-title="POL",PL: TVN Turbo HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12962.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 1 FHD" tvg-logo="" group-title="POL",PL: TVP 1 FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12927.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 1 HD" tvg-logo="" group-title="POL",PL: TVP 1 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12992.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 2 HD" tvg-logo="" group-title="POL",PL: TVP 2 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12993.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 3 HD" tvg-logo="" group-title="POL",PL: TVP 3 HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12961.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 3 Katowice" tvg-logo="" group-title="POL",PL: TVP 3 Katowice
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12867.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 3 Warszawa" tvg-logo="" group-title="POL",PL: TVP 3 Warszawa
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12854.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP HD" tvg-logo="" group-title="POL",PL: TVP HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12912.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Historia HD" tvg-logo="" group-title="POL",PL: TVP Historia HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12999.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP INFO HD" tvg-logo="" group-title="POL",PL: TVP INFO HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12960.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Kultura HD" tvg-logo="" group-title="POL",PL: TVP Kultura HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12871.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP KULTURE" tvg-logo="" group-title="POL",PL: TVP KULTURE
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12959.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Polonia" tvg-logo="" group-title="POL",PL: TVP Polonia
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12998.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP SERIALE" tvg-logo="" group-title="POL",PL: TVP SERIALE
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12956.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Seriale 1" tvg-logo="" group-title="POL",PL: TVP Seriale 1
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12994.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP SERIALI HD" tvg-logo="" group-title="POL",PL: TVP SERIALI HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12870.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Sport FHD" tvg-logo="" group-title="POL",PL: TVP Sport FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12924.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP SPORT HD" tvg-logo="" group-title="POL",PL: TVP SPORT HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12958.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Twoja TV HD" tvg-logo="" group-title="POL",PL: Twoja TV HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12884.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Universal HD" tvg-logo="" group-title="POL",PL: Universal HD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/13007.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIVA POLSKA FHD" tvg-logo="" group-title="POL",PL: VIVA POLSKA FHD
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12921.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: Wawa Tv" tvg-logo="" group-title="POL",PL: Wawa Tv
-http://pwv.v-sat.org:25461/live/UoHodBjv63/oJJ7jStyEM/12857.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: WP" tvg-logo="" group-t
+#EXTINF:0,(PL) TVP1
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7359.ts
+#EXTINF:0,(PL) TVP2 HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7360.ts
+#EXTINF:0,(PL) TVP3
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7361.ts
+#EXTINF:0,(PL) TVP SERIALE
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7377.ts
+#EXTINF:0,(PL) TVP INFO
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7379.ts
+#EXTINF:0,(PL) TVN
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7364.ts
+#EXTINF:0,(PL) TVN 24
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/123292.ts
+#EXTINF:0,(PL) TVN Style
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7382.ts
+#EXTINF:0,(PL) Tvn Turbo
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7381.ts
+#EXTINF:0,(PL) Polsat Sport News HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7372.ts
+#EXTINF:0,(PL) Polsat Sport HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7370.ts
+#EXTINF:0,(PL) Polsat Sport Extra HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7371.ts
+#EXTINF:0,(PL) Polsat Play
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7368.ts
+#EXTINF:0,(PL) Polsat HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7362.ts
+#EXTINF:0,(PL) Polsat Film
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7373.ts
+#EXTINF:0,(PL) Polsat Cafe
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7369.ts
+#EXTINF:0,(PL) Polsat 2
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7363.ts
+#EXTINF:0,(PL) nSport
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7386.ts
+#EXTINF:0,(PL) NATIONAL GEO HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7410.ts
+#EXTINF:0,(PL) Nat Geo Wild
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7411.ts
+#EXTINF:0,(PL) MTV POLSKA
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7390.ts
+#EXTINF:0,(PL) MINIMINI+ HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7424.ts
+#EXTINF:0,(PL) KUCHNIA HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7393.ts
+#EXTINF:0,(PL) KINO POLSKA
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7394.ts
+#EXTINF:0,(PL) HBO HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7397.ts
+#EXTINF:0,(PL) HBO 2 HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7398.ts
+#EXTINF:0,(PL) FOX HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7399.ts
+#EXTINF:0,(PL) Fox Comedy HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7400.ts
+#EXTINF:0,(PL) Filmbox Premium
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7402.ts
+#EXTINF:0,(PL) FILMBOX EXTRA HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/77487.ts
+#EXTINF:0,(PL) Filmbox Family
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7403.ts
+#EXTINF:0,(PL) Filmbox Action
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7404.ts
+#EXTINF:0,(PL) Filmbox
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7401.ts
+#EXTINF:0,(PL) ELEVEN Sport HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7387.ts
+#EXTINF:0,(PL) ELEVEN HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7388.ts
+#EXTINF:0,(PL) DISCOVERY SCIENCE
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7415.ts
+#EXTINF:0,(PL) Discovery Life
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7416.ts
+#EXTINF:0,(PL) Discovery HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7413.ts
+#EXTINF:0,(PL) COMEDY CENTRAL
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7392.ts
+#EXTINF:0,(PL) CANAL  SPORT 2
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7423.ts
+#EXTINF:0,(PL) CANAL  SPORT
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7422.ts
+#EXTINF:0,(PL) CANAL  SERIALE
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7418.ts
+#EXTINF:0,(PL) CANAL  HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7417.ts
+#EXTINF:0,(PL) CANAL  FILM
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7419.ts
+#EXTINF:0,(PL) CANAL  FAMILY
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7420.ts
+#EXTINF:0,(PL) ANIMAL PLANET
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7412.ts
+#EXTINF:0,(PL) ALE KINO
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/7405.ts
+#EXTINF:0,(PL) CBS Reality
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/14960.ts
+#EXTINF:0,(PL) Discovery Life  Poland HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/14962.ts
+#EXTINF:0,(PL) Hip Hop TV
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/14965.ts
+#EXTINF:0,(PL) National Geographic Polska
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/14961.ts
+#EXTINF:0,(PL) Silesia TV
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/14963.ts
+#EXTINF:0,(PL) TV Puls HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/14966.ts
+#EXTINF:0,(PL) TVP ABC
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/14964.ts
+#EXTINF:0,(PL) TVP Kultura
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/14957.ts
+#EXTINF:0,(PL) VOX Music TV
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/14958.ts
+#EXTINF:0,(PL) WP
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/14959.ts
+#EXTINF:0,(PL) AXN Black
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/37744.ts
+#EXTINF:0,(PL) AXN White Poland
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/37743.ts
+#EXTINF:0,(PL) Boomerang
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/38746.ts
+#EXTINF:0,(PL) Disco Polo Music
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/38740.ts
+#EXTINF:0,(PL) Disney Channel HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/38744.ts
+#EXTINF:0,(PL) Disney XD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/38743.ts
+#EXTINF:0,(PL) Eurosport 1
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/38739.ts
+#EXTINF:0,(PL) Investigation Discovery Polska
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/39748.ts
+#EXTINF:0,(PL) Polsat Jim Jam
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/38745.ts
+#EXTINF:0,(PL) Superpolsat
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/39746.ts
+#EXTINF:0,(PL) SuperStacja
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/39744.ts
+#EXTINF:0,(PL) TLC
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/39747.ts
+#EXTINF:0,(PL) TV6 Polska
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/39743.ts
+#EXTINF:0,(PL) E! Entertainment
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133258.ts
+#EXTINF:0,(PL) ESKA TV
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133257.ts
+#EXTINF:0,(PL) ESKA TV Extra
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133256.ts
+#EXTINF:0,(PL) Eurosport 1 HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133254.ts
+#EXTINF:0,(PL) Eurosport 2 HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133253.ts
+#EXTINF:0,(PL) Extreme Sports HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133252.ts
+#EXTINF:0,(PL) Fightbox HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133251.ts
+#EXTINF:0,(PL) FilmBox Extra
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133250.ts
+#EXTINF:0,(PL) FilmBox Premium HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133249.ts
+#EXTINF:0,(PL) FOKUS TV
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133248.ts
+#EXTINF:0,(PL) Food Network HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133247.ts
+#EXTINF:0,(PL) Golf Channel
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133246.ts
+#EXTINF:0,(PL) H2 HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133245.ts
+#EXTINF:0,(PL) History HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133244.ts
+#EXTINF:0,(PL) Ale Kino HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133243.ts
+#EXTINF:0,(PL) Lifetime HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133242.ts
+#EXTINF:0,(PL) MiniMini  HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133239.ts
+#EXTINF:0,(PL) MTV Live HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133238.ts
+#EXTINF:0,(PL) MTV Polska HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133236.ts
+#EXTINF:0,(PL) Nat Geo People HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133235.ts
+#EXTINF:0,(PL) NATIONAL GEO
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133234.ts
+#EXTINF:0,(PL) NUTA TV
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133228.ts
+#EXTINF:0,(PL) Polo TV
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133226.ts
+#EXTINF:0,(PL) Polsat
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133225.ts
+#EXTINF:0,(PL) Polsat News HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133219.ts
+#EXTINF:0,(PL) Polsat Play HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133218.ts
+#EXTINF:0,(PL) Polsat Sport
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133217.ts
+#EXTINF:0,(PL) POWER TV
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133213.ts
+#EXTINF:0,(PL) SciFi Universal
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133211.ts
+#EXTINF:0,(PL) Sundance HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133208.ts
+#EXTINF:0,(PL) Super Polsat
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133207.ts
+#EXTINF:0,(PL) TLC HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133204.ts
+#EXTINF:0,(PL) TNT HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133203.ts
+#EXTINF:0,(PL) TO!TV
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133202.ts
+#EXTINF:0,(PL) TV4
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133199.ts
+#EXTINF:0,(PL) TV4 HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133198.ts
+#EXTINF:0,(PL) TVN Fabula
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133195.ts
+#EXTINF:0,(PL) TVN Style HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133193.ts
+#EXTINF:0,(PL) TVP Historia
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133190.ts
+#EXTINF:0,(PL) TVS
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133189.ts
+#EXTINF:0,(PL) Universal HD
+http://ip.sltv.be:8000/live/SalVaBarAki/RlzjNMSRWp/133188.ts
