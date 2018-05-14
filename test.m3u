@@ -1,199 +1,129 @@
-#extm3u
-#EXTINF:-1,Pl- CANAL HD
-http://linux-app.tv:8080/live/sham1/sham1/10148.m3u8
-#EXTINF:-1,Pl- CANAL FILM
-http://linux-app.tv:8080/live/sham1/sham1/10149.m3u8
-#EXTINF:-1,Pl- CANAL FAMILY
-http://linux-app.tv:8080/live/sham1/sham1/10150.m3u8
-#EXTINF:-1,Pl- CANAL SERIALE
-http://linux-app.tv:8080/live/sham1/sham1/10147.m3u8
-#EXTINF:-1,Pl- Polsat
-http://linux-app.tv:8080/live/sham1/sham1/10094.m3u8
-#EXTINF:-1,Pl- Polsat 2
-http://linux-app.tv:8080/live/sham1/sham1/10093.m3u8
-#EXTINF:-1,Pl- Polsat Cafe
-http://linux-app.tv:8080/live/sham1/sham1/10092.m3u8
-#EXTINF:-1,Pl- Polsat Film
-http://linux-app.tv:8080/live/sham1/sham1/10091.m3u8
-#EXTINF:-1,Pl- Polsat HD
-http://linux-app.tv:8080/live/sham1/sham1/10090.m3u8
-#EXTINF:-1,Pl- Polsat Jim Jam
-http://linux-app.tv:8080/live/sham1/sham1/10089.m3u8
-#EXTINF:-1,Pl- Polsat News HD
-http://linux-app.tv:8080/live/sham1/sham1/10088.m3u8
-#EXTINF:-1,Pl- Polsat Play
-http://linux-app.tv:8080/live/sham1/sham1/10087.m3u8
-#EXTINF:-1,Pl- Polsat Play HD
-http://linux-app.tv:8080/live/sham1/sham1/10086.m3u8
-#EXTINF:-1,Pl- HBO HD
-http://linux-app.tv:8080/live/sham1/sham1/10111.m3u8
-#EXTINF:-1,Pl- HBO 2 HD
-http://linux-app.tv:8080/live/sham1/sham1/10112.m3u8
-#EXTINF:-1,Pl- Fightbox HD
-http://linux-app.tv:8080/live/sham1/sham1/10126.m3u8
-#EXTINF:-1,Pl- Filmbox
-http://linux-app.tv:8080/live/sham1/sham1/10125.m3u8
-#EXTINF:-1,Pl- Filmbox Action
-http://linux-app.tv:8080/live/sham1/sham1/10124.m3u8
-#EXTINF:-1,Pl- FilmBox Extra
-http://linux-app.tv:8080/live/sham1/sham1/10123.m3u8
-#EXTINF:-1,Pl- FILMBOX EXTRA HD
-http://linux-app.tv:8080/live/sham1/sham1/10122.m3u8
-#EXTINF:-1,Pl- Filmbox Family
-http://linux-app.tv:8080/live/sham1/sham1/10121.m3u8
-#EXTINF:-1,Pl- Filmbox Premium
-http://linux-app.tv:8080/live/sham1/sham1/10120.m3u8
-#EXTINF:-1,Pl- FilmBox Premium HD
-http://linux-app.tv:8080/live/sham1/sham1/10119.m3u8
-#EXTINF:-1,Pl- AXN Black
-http://linux-app.tv:8080/live/sham1/sham1/10153.m3u8
-#EXTINF:-1,Pl- AXN White Poland
-http://linux-app.tv:8080/live/sham1/sham1/10152.m3u8
-#EXTINF:-1,Pl- TVP1
-http://linux-app.tv:8080/live/sham1/sham1/10060.m3u8
-#EXTINF:-1,Pl- TVP2 HD
-http://linux-app.tv:8080/live/sham1/sham1/10059.m3u8
-#EXTINF:-1,Pl- TVP3
-http://linux-app.tv:8080/live/sham1/sham1/10058.m3u8
-#EXTINF:-1,Pl- TV4
-http://linux-app.tv:8080/live/sham1/sham1/10073.m3u8
-#EXTINF:-1,Pl- TV4 HD
-http://linux-app.tv:8080/live/sham1/sham1/10072.m3u8
-#EXTINF:-1,Pl- TV6 Polska
-http://linux-app.tv:8080/live/sham1/sham1/10071.m3u8
-#EXTINF:-1,Pl- TVN
-http://linux-app.tv:8080/live/sham1/sham1/10070.m3u8
-#EXTINF:-1,Pl- TVN 24
-http://linux-app.tv:8080/live/sham1/sham1/10069.m3u8
-#EXTINF:-1,Pl- TVN Fabula
-http://linux-app.tv:8080/live/sham1/sham1/10068.m3u8
-#EXTINF:-1,Pl- TVN Style
-http://linux-app.tv:8080/live/sham1/sham1/10067.m3u8
-#EXTINF:-1,Pl- TVN Style HD
-http://linux-app.tv:8080/live/sham1/sham1/10066.m3u8
-#EXTINF:-1,Pl- TV Puls HD
-http://linux-app.tv:8080/live/sham1/sham1/10074.m3u8
-#EXTINF:-1,Pl- TVN Turbo
-http://linux-app.tv:8080/live/sham1/sham1/10065.m3u8
-#EXTINF:-1,Pl- TVP ABC
-http://linux-app.tv:8080/live/sham1/sham1/10064.m3u8
-#EXTINF:-1,Pl- TVP Historia
-http://linux-app.tv:8080/live/sham1/sham1/10063.m3u8
-#EXTINF:-1,Pl- TVP Kultura
-http://linux-app.tv:8080/live/sham1/sham1/10062.m3u8
-#EXTINF:-1,Pl- TVP SERIALE
-http://linux-app.tv:8080/live/sham1/sham1/10061.m3u8
-#EXTINF:-1,Pl- TVS
-http://linux-app.tv:8080/live/sham1/sham1/10057.m3u8
-#EXTINF:-1,Pl- Ale Kino HD
-http://linux-app.tv:8080/live/sham1/sham1/10155.m3u8
-#EXTINF:-1,Pl- ANIMAL PLANET
-http://linux-app.tv:8080/live/sham1/sham1/10154.m3u8
-#EXTINF:-1,Pl- Boomerang
-http://linux-app.tv:8080/live/sham1/sham1/10151.m3u8
-#EXTINF:-1,Pl- CBS Reality
-http://linux-app.tv:8080/live/sham1/sham1/10144.m3u8
-#EXTINF:-1,Pl- COMEDY CENTRAL
-http://linux-app.tv:8080/live/sham1/sham1/10143.m3u8
-#EXTINF:-1,Pl- Disco Polo Music
-http://linux-app.tv:8080/live/sham1/sham1/10142.m3u8
-#EXTINF:-1,Pl- E! Entertainment
-http://linux-app.tv:8080/live/sham1/sham1/10135.m3u8
-#EXTINF:-1,Pl- ESKA TV
-http://linux-app.tv:8080/live/sham1/sham1/10132.m3u8
-#EXTINF:-1,Pl- ESKA TV Extra
-http://linux-app.tv:8080/live/sham1/sham1/10131.m3u8
-#EXTINF:-1,Pl- FOKUS TV
-http://linux-app.tv:8080/live/sham1/sham1/10118.m3u8
-#EXTINF:-1,Pl- Food Network HD
-http://linux-app.tv:8080/live/sham1/sham1/10117.m3u8
-#EXTINF:-1,Pl- Fox Comedy HD
-http://linux-app.tv:8080/live/sham1/sham1/10116.m3u8
-#EXTINF:-1,Pl- FOX HD
-http://linux-app.tv:8080/live/sham1/sham1/10115.m3u8
-#EXTINF:-1,Pl- Golf Channel
-http://linux-app.tv:8080/live/sham1/sham1/10114.m3u8
-#EXTINF:-1,Pl- Hip Hop TV
-http://linux-app.tv:8080/live/sham1/sham1/10110.m3u8
-#EXTINF:-1,Pl- History HD
-http://linux-app.tv:8080/live/sham1/sham1/10109.m3u8
-#EXTINF:-1,Pl- Investigation Discovery Polska
-http://linux-app.tv:8080/live/sham1/sham1/10108.m3u8
-#EXTINF:-1,Pl- KINO POLSKA
-http://linux-app.tv:8080/live/sham1/sham1/10107.m3u8
-#EXTINF:-1,Pl- KUCHNIA HD
-http://linux-app.tv:8080/live/sham1/sham1/10106.m3u8
-#EXTINF:-1,Pl- Lifetime HD
-http://linux-app.tv:8080/live/sham1/sham1/10105.m3u8
-#EXTINF:-1,Pl- MiniMini HD
-http://linux-app.tv:8080/live/sham1/sham1/10104.m3u8
-#EXTINF:-1,Pl- MTV Live HD
-http://linux-app.tv:8080/live/sham1/sham1/10103.m3u8
-#EXTINF:-1,Pl- MTV POLSKA
-http://linux-app.tv:8080/live/sham1/sham1/10102.m3u8
-#EXTINF:-1,Pl- MTV Polska HD
-http://linux-app.tv:8080/live/sham1/sham1/10101.m3u8
-#EXTINF:-1,Pl- Nat Geo People HD
-http://linux-app.tv:8080/live/sham1/sham1/10100.m3u8
-#EXTINF:-1,Pl- Nat Geo Wild
-http://linux-app.tv:8080/live/sham1/sham1/10099.m3u8
-#EXTINF:-1,Pl- NATIONAL GEO
-http://linux-app.tv:8080/live/sham1/sham1/10098.m3u8
-#EXTINF:-1,Pl- NATIONAL GEO HD
-http://linux-app.tv:8080/live/sham1/sham1/10097.m3u8
-#EXTINF:-1,Pl- National Geographic Polska
-http://linux-app.tv:8080/live/sham1/sham1/10096.m3u8
-#EXTINF:-1,Pl- POWER TV
-http://linux-app.tv:8080/live/sham1/sham1/10081.m3u8
-#EXTINF:-1,Pl- SciFi Universal
-http://linux-app.tv:8080/live/sham1/sham1/10080.m3u8
-#EXTINF:-1,Pl- Sundance HD
-http://linux-app.tv:8080/live/sham1/sham1/10079.m3u8
-#EXTINF:-1,Pl- Super Polsat
-http://linux-app.tv:8080/live/sham1/sham1/10078.m3u8
-#EXTINF:-1,Pl- TLC
-http://linux-app.tv:8080/live/sham1/sham1/10077.m3u8
-#EXTINF:-1,Pl- TLC HD
-http://linux-app.tv:8080/live/sham1/sham1/10076.m3u8
-#EXTINF:-1,Pl- TNT HD
-http://linux-app.tv:8080/live/sham1/sham1/10075.m3u8
-#EXTINF:-1,Pl- H2 HD
-http://linux-app.tv:8080/live/sham1/sham1/10113.m3u8
-#EXTINF:-1,Pl- Discovery HD
-http://linux-app.tv:8080/live/sham1/sham1/10141.m3u8
-#EXTINF:-1,Pl- Discovery Life
-http://linux-app.tv:8080/live/sham1/sham1/10140.m3u8
-#EXTINF:-1,Pl- Discovery Life Poland HD
-http://linux-app.tv:8080/live/sham1/sham1/10139.m3u8
-#EXTINF:-1,Pl- DISCOVERY SCIENCE
-http://linux-app.tv:8080/live/sham1/sham1/10138.m3u8
-#EXTINF:-1,Pl- Disney Channel HD
-http://linux-app.tv:8080/live/sham1/sham1/10137.m3u8
-#EXTINF:-1,Pl- Disney XD
-http://linux-app.tv:8080/live/sham1/sham1/10136.m3u8
-#EXTINF:-1,Pl- nSport
-http://linux-app.tv:8080/live/sham1/sham1/10095.m3u8
-#EXTINF:-1,Pl- Polsat Sport
-http://linux-app.tv:8080/live/sham1/sham1/10085.m3u8
-#EXTINF:-1,Pl- Polsat Sport Extra HD
-http://linux-app.tv:8080/live/sham1/sham1/10084.m3u8
-#EXTINF:-1,Pl- Polsat Sport HD
-http://linux-app.tv:8080/live/sham1/sham1/10083.m3u8
-#EXTINF:-1,Pl- Polsat Sport News HD
-http://linux-app.tv:8080/live/sham1/sham1/10082.m3u8
-#EXTINF:-1,Pl- ELEVEN HD
-http://linux-app.tv:8080/live/sham1/sham1/10134.m3u8
-#EXTINF:-1,Pl- ELEVEN Sport HD
-http://linux-app.tv:8080/live/sham1/sham1/10133.m3u8
-#EXTINF:-1,Pl- CANAL SPORT
-http://linux-app.tv:8080/live/sham1/sham1/10146.m3u8
-#EXTINF:-1,Pl- CANAL SPORT 2
-http://linux-app.tv:8080/live/sham1/sham1/10145.m3u8
-#EXTINF:-1,Pl- Eurosport 1
-http://linux-app.tv:8080/live/sham1/sham1/10130.m3u8
-#EXTINF:-1,Pl- Eurosport 1 HD
-http://linux-app.tv:8080/live/sham1/sham1/10129.m3u8
-#EXTINF:-1,Pl- Eurosport 2 HD
-http://linux-app.tv:8080/live/sham1/sham1/10128.m3u8
-#EXTINF:-1,Pl- Extreme Sports HD
-http://linux-app.tv:8080/live/sham1/sham1/10127.m3u8
+#EXTM3U
+#EXTINF:0, 4fun.TV
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/535/index.m3u8
+#EXTINF:0, 4Fun Gold Hits
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/536/index.m3u8
+#EXTINF:0, 4Fun Dance
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/537/index.m3u8
+#EXTINF:0, 13 Ulica
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/890/index.m3u8
+#EXTINF:0, Active Family
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/393/index.m3u8
+#EXTINF:0, Ale Kino+
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/389/index.m3u8
+#EXTINF:0, AXN
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/875/index.m3u8
+#EXTINF:0, AXN White
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/876/index.m3u8
+#EXTINF:0, AXN Black
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/892/index.m3u8
+#EXTINF:0, Baby TV
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/857/index.m3u8
+#EXTINF:0, BBC HD
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/558/index.m3u8
+#EXTINF:0, BBC Earth
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/560/index.m3u8
+#EXTINF:0, Boomerang
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/893/index.m3u8
+#EXTINF:0, Canal+ Film 
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/381/index.m3u8
+#EXTINF:0, Canal+ Seriale
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/391/index.m3u8
+#EXTINF:0, Cinemax
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/395/index.m3u8
+#EXTINF:0, CBS Action
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/404/index.m3u8
+#EXTINF:0, Duck TV
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/856/index.m3u8
+#EXTINF:0, De Vinci Learning
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/403/index.m3u8
+#EXTINF:0, Disney Channel
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/880/index.m3u8
+#EXTINF:0, Discovery Life
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/884/index.m3u8
+#EXTINF:0, Discovery Historia
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/557/index.m3u8
+#EXTINF:0, Discovery Turbo Xtra
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/409/index.m3u8
+#EXTINF:0, E!
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/897/index.m3u8
+#EXTINF:0, Eska TV
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/524/index.m3u8
+#EXTINF:0, Eska Rock TV
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/826/index.m3u8
+#EXTINF:0, Eurosport
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/895/index.m3u8
+#EXTINF:0, Fightbox
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/900/index.m3u8
+#EXTINF:0, Kino TV
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/550/index.m3u8
+#EXTINF:0, Filmbox Premium
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/552/index.m3u8
+#EXTINF:0, Filmbox Action
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/554/index.m3u8
+#EXTINF:0, Filmbox Arthouse
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/408/index.m3u8
+#EXTINF:0, JimJam Polsat
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/898/index.m3u8
+#EXTINF:0, HBO2
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/562/index.m3u8
+#EXTINF:0, HBO2 (oryg)
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/563/index.m3u8
+#EXTINF:0, HBO3
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/564/index.m3u8
+#EXTINF:0, HBO3 (oryg)
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/565/index.m3u8
+#EXTINF:0, History 
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/406/index.m3u8
+#EXTINF:0, H2
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/921/index.m3u8
+#EXTINF:0, Kino Polska
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/394/index.m3u8
+#EXTINF:0, Kino Polska Muzyka
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/555/index.m3u8
+#EXTINF:0, Kuchnia+
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/387/index.m3u8
+#EXTINF:0, Nat Geo Wild
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/397/index.m3u8
+#EXTINF:0, NUTA.PL
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/522/index.m3u8
+#EXTINF:0, NTL Radomsko
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/523/index.m3u8
+#EXTINF:0, Mango
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/519/index.m3u8
+#EXTINF:0, Planete+
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/386/index.m3u8
+#EXTINF:0, Polo TV
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/520/index.m3u8
+#EXTINF:0, Power TV
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/525/index.m3u8
+#EXTINF:0, Stars TV
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/534/index.m3u8
+#EXTINF:0, Stopklatka TV
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/402/index.m3u8
+#EXTINF:0, Superstacja
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/874/index.m3u8
+#EXTINF:0, TBN Polska
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/372/index.m3u8
+#EXTINF:0, Teletoon+
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/385/index.m3u8
+#EXTINF:0, Tele 5
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/505/index.m3u8
+#EXTINF:0, TLC
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/877/index.m3u8
+#EXTINF:0, TNT
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/953/index.m3u8
+#EXTINF:0, TO!TV
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/526/index.m3u8
+#EXTINF:0, TV 6
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/410/index.m3u8
+#EXTINF:0, TV Okazje
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/850/index.m3u8
+#EXTINF:0, TV Puls
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/879/index.m3u8
+#EXTINF:0, TVS
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/825/index.m3u8
+#EXTINF:0, Wellbeing Network
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/401/index.m3u8
+#EXTINF:0, VOX Music TV
+http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/824/index.m3u8 
