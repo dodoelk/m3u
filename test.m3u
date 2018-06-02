@@ -1,600 +1,694 @@
 #EXTM3U
-#EXTINF:0 group-title="Kids",ACTIVE FAMILY | SD (Kids)
-http://eviptv.tk:25461/live/almanturk158...24/3086.ts
-#EXTINF:0 group-title="Kids",BOOMERANG | SD (Kids)
-http://eviptv.tk:25461/live/almanturk158...24/3082.ts
-#EXTINF:0 group-title="Kids",CC FAMILY | SD (Kids)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10909.ts
-#EXTINF:0 group-title="Kids",COMEDY CENTRAL FAMILY | SD (Kids)
-http://eviptv.tk:25461/live/almanturk158...24/2968.ts
-#EXTINF:0 group-title="Kids",DISNEY CHANNEL | HD (Kids)
-http://eviptv.tk:25461/live/almanturk158...24/3060.ts
-#EXTINF:0 group-title="Kids",DISNEY CHANNEL | SD (Kids)
-http://217.182.173.184:8000/live/micha/micha/10933.ts
-#EXTINF:0 group-title="Kids",DISNEY CHANNEL | SD (Kids)
-http://fserver.yellowiptv.com:80/live/hl...e/13207.ts
-#EXTINF:0 group-title="Kids",DISNEY JUNIOR | SD (Kids)
-http://217.182.173.184:8000/live/micha/micha/10932.ts
-#EXTINF:0 group-title="Kids",DISNEY JUNIOR | SD (Kids)
-http://eviptv.tk:25461/live/almanturk158...24/3059.ts
-#EXTINF:0 group-title="Kids",DISNEY XD | SD (Kids)
-http://eviptv.tk:25461/live/almanturk158...24/3058.ts
-#EXTINF:0 group-title="Kids",FILMBOX FAMILY | SD (Kids)
-http://217.182.173.184:8000/live/micha/micha/10929.ts
-#EXTINF:0 group-title="Kids",FILMBOX FAMILY | SD (Kids)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10929.ts
-#EXTINF:0 group-title="Kids",FILMBOX FAMILY | SD (Kids)
-http://eviptv.tk:25461/live/almanturk158...24/3044.ts
-#EXTINF:0 group-title="Kids",NICK JR | SD (Kids)
-http://eviptv.tk:25461/live/almanturk158...24/2956.ts
-#EXTINF:0 group-title="Kids",NICKELODEON | SD (Kids)
-http://eviptv.tk:25461/live/almanturk158...24/2955.ts
-#EXTINF:0 group-title="Kids",NICKLODEON | SD (Kids)
-http://217.182.173.184:8000/live/micha/micha/10880.ts
-#EXTINF:0 group-title="Kids",NICKLODEON | SD (Kids)
-http://ns3074107.ip-217-182-173.eu:8000/...s#EXTINF:0 group-title="Movie",CINEMAX | HD (Movie)
-http://217.182.173.184:8000/live/micha/micha/10908.ts
-#EXTINF:0 group-title="Movie",CINEMAX | HD (Movie)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10908.ts
-#EXTINF:0 group-title="Movie",PARAMOUNT CHANNEL | HD (Movie)
-http://eviptv.tk:25461/live/almanturk158...s#EXTINF:0 group-title="Music",DISCO POLO MUSIC | SD (Music)
-http://eviptv.tk:25461/live/almanturk158...24/2966.ts
-#EXTINF:0 group-title="Music",ESKA BEST MUSIC | HD (Music)
-http://217.182.173.184:8000/live/micha/micha/2594.ts
-#EXTINF:0 group-title="Music",MTV POLSKA | SD (Music)
-http://eviptv.tk:25461/live/almanturk158...24/2957.ts
-#EXTINF:0 group-title="Music",VOX MUSIC TV | SD (Music)
-http://eviptv.tk:25461/live/almanturk158...s#EXTINF:0 group-title="News",BBC | HD (News)
-http://eviptv.tk:25461/live/almanturk158...24/2971.ts
-#EXTINF:0 group-title="News",BBC EARTH | SD (News)
-http://eviptv.tk:25461/live/almanturk158...24/2972.ts
-#EXTINF:0 group-title="News",POLSAT NEWS | HD (News)
-http://eviptv.tk:25461/live/almanturk158...24/3019.ts
-#EXTINF:0 group-title="News",POLSAT NEWS | SD (News)
-http://fserver.yellowiptv.com:80/live/hl...e/13227.ts
-#EXTINF:0 group-title="News",POLSAT NEWS | SD (News)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10872.ts
-#EXTINF:0 group-title="News",POLSAT NEWS 2 | SD (News)
-http://eviptv.tk:25461/live/almanturk158...24/2953.ts
-#EXTINF:0 group-title="News",RECORD NEWS | SD (News)
-http://fserver.yellowiptv.com:80/live/hl...e/13230.ts
-#EXTINF:0 group-title="News",TVP ABC | SD (News)
-http://eviptv.tk:25461/live/almanturk158...s#EXTINF:0 group-title="Sport",CANAL SPORT | HD (Sport)
-http://217.182.173.184:8000/live/micha/micha/10903.ts
-#EXTINF:0 group-title="Sport",CANAL SPORT 2 | HD (Sport)
-http://217.182.173.184:8000/live/micha/micha/10904.ts
-#EXTINF:0 group-title="Sport",ELEVEN SPORTS | HD (Sport)
-http://eviptv.tk:25461/live/almanturk158...24/3054.ts
-#EXTINF:0 group-title="Sport",ELEVEN SPORTS | SD (Sport)
-http://eviptv.tk:25461/live/almanturk158...24/3053.ts
-#EXTINF:0 group-title="Sport",EUROSPORT | SD (Sport)
-http://fserver.yellowiptv.com:80/live/hl...e/13210.ts
-#EXTINF:0 group-title="Sport",EUROSPORT 1 | HD (Sport)
-http://eviptv.tk:25461/live/almanturk158...24/3052.ts
-#EXTINF:0 group-title="Sport",EUROSPORT 1 | SD (Sport)
-http://eviptv.tk:25461/live/almanturk158...24/3051.ts
-#EXTINF:0 group-title="Sport",EUROSPORT 2 | HD (Sport)
-http://217.182.173.184:8000/live/micha/micha/10931.ts
-#EXTINF:0 group-title="Sport",EUROSPORT 2 | HD (Sport)
-http://eviptv.tk:25461/live/almanturk158...24/3050.ts
-#EXTINF:0 group-title="Sport",EUROSPORT 2 | SD (Sport)
-http://fserver.yellowiptv.com:80/live/hl...e/13211.ts
-#EXTINF:0 group-title="Sport",EXTREME SPORTS | HD (Sport)
-http://eviptv.tk:25461/live/almanturk158...24/3049.ts
-#EXTINF:0 group-title="Sport",FIGHT NETWORK | HD (Sport)
-http://eviptv.tk:25461/live/almanturk158...24/3009.ts
-#EXTINF:0 group-title="Sport",FIGHTBOX | HD (Sport)
-http://eviptv.tk:25461/live/almanturk158...24/3048.ts
-#EXTINF:0 group-title="Sport",MOTORWIZJA | SD (Sport)
-http://eviptv.tk:25461/live/almanturk158...24/3031.ts
-#EXTINF:0 group-title="Sport",NSPORT | HD (Sport)
-http://217.182.173.184:8000/live/micha/micha/10878.ts
-#EXTINF:0 group-title="Sport",NSPORT | HD (Sport)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10878.ts
-#EXTINF:0 group-title="Sport",NSPORT | HD (Sport)
-http://eviptv.tk:25461/live/almanturk158...24/2943.ts
-#EXTINF:0 group-title="Sport",NSPORT PLUS | SD (Sport)
-http://217.182.173.184:8000/live/micha/micha/10879.ts
-#EXTINF:0 group-title="Sport",POLSAT SPORT | HD (Sport)
-http://217.182.173.184:8000/live/micha/micha/2275.ts
-#EXTINF:0 group-title="Sport",POLSAT SPORT | HD (Sport)
-http://ns3074107.ip-217-182-173.eu:8000/...ha/2275.ts
-#EXTINF:0 group-title="Sport",POLSAT SPORT | HD (Sport)
-http://eviptv.tk:25461/live/almanturk158...24/3013.ts
-#EXTINF:0 group-title="Sport",POLSAT SPORT | SD (Sport)
-http://217.182.173.184:8000/live/micha/micha/10871.ts
-#EXTINF:0 group-title="Sport",POLSAT SPORT EXTRA | HD (Sport)
-http://217.182.173.184:8000/live/micha/micha/2276.ts
-#EXTINF:0 group-title="Sport",POLSAT SPORT EXTRA | HD (Sport)
-http://eviptv.tk:25461/live/almanturk158...24/3016.ts
-#EXTINF:0 group-title="Sport",POLSAT SPORT EXTRA | SD (Sport)
-http://217.182.173.184:8000/live/micha/micha/10870.ts
-#EXTINF:0 group-title="Sport",POLSAT SPORT EXTRA | SD (Sport)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10870.ts
-#EXTINF:0 group-title="Sport",POLSAT SPORT FIGHT | HD (Sport)
-http://eviptv.tk:25461/live/almanturk158...24/3015.ts
-#EXTINF:0 group-title="Sport",POLSAT SPORT NEWS | HD (Sport)
-http://eviptv.tk:25461/live/almanturk158...24/3014.ts
-#EXTINF:0 group-title="Sport",POLSAT SPORT NEWS | SD (Sport)
-http://217.182.173.184:8000/live/micha/micha/10876.ts
-#EXTINF:0 group-title="Sport",SPORT KLUB | SD (Sport)
-http://eviptv.tk:25461/live/almanturk158...24/2951.ts
-#EXTINF:0 group-title="Sport",TVP SPORT | HD (Sport)
-http://217.182.173.184:8000/live/micha/micha/10855.ts
-#EXTINF:0 group-title="Sport",TVP SPORT | HD (Sport)
-http://eviptv.tk:25461/live/almanturk158...24/2979.ts
-#EXTINF:0 group-title="Sport",TVP SPORT | SD (Sport)
-http://fserver.yellowiptv.com:80/live/hl...s#EXTINF:0 group-title="_No Group",13 ULICA | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3092.ts
-#EXTINF:0 group-title="_No Group",13 ULICA | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10941.ts
-#EXTINF:0 group-title="_No Group",13 ULICA | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10941.ts
-#EXTINF:0 group-title="_No Group",4 FUN HITS | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10914.ts
-#EXTINF:0 group-title="_No Group",4 FUN HITS | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10914.ts
-#EXTINF:0 group-title="_No Group",4FUN DANCE | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10940.ts
-#EXTINF:0 group-title="_No Group",4FUN DANCE | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10940.ts
-#EXTINF:0 group-title="_No Group",4FUN TV | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10939.ts
-#EXTINF:0 group-title="_No Group",4FUN TV | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10939.ts
-#EXTINF:0 group-title="_No Group",4FUN TV | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2974.ts
-#EXTINF:0 group-title="_No Group",ADVENTURE | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3085.ts
-#EXTINF:0 group-title="_No Group",ALE KINO | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3084.ts
-#EXTINF:0 group-title="_No Group",AMAZING | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2973.ts
-#EXTINF:0 group-title="_No Group",AMC | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13197.ts
-#EXTINF:0 group-title="_No Group",ANIMAL PLANET | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3083.ts
-#EXTINF:0 group-title="_No Group",ANIMAL PLANET | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10936.ts
-#EXTINF:0 group-title="_No Group",ANIMAL PLANET | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10936.ts
-#EXTINF:0 group-title="_No Group",ATM ROZRYWKA TV | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3091.ts
-#EXTINF:0 group-title="_No Group",AXN | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3089.ts
-#EXTINF:0 group-title="_No Group",AXN BLACK | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10938.ts
-#EXTINF:0 group-title="_No Group",AXN BLACK | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10938.ts
-#EXTINF:0 group-title="_No Group",AXN BLACK | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3090.ts
-#EXTINF:0 group-title="_No Group",AXN SPIN | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3088.ts
-#EXTINF:0 group-title="_No Group",AXN WHITE | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10937.ts
-#EXTINF:0 group-title="_No Group",AXN WHITE | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10937.ts
-#EXTINF:0 group-title="_No Group",AXN WHITE | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3087.ts
-#EXTINF:0 group-title="_No Group",CANAL 1 | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10907.ts
-#EXTINF:0 group-title="_No Group",CANAL FILM | HD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10902.ts
-#EXTINF:0 group-title="_No Group",COMEDY CENTRAL | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/2282.ts
-#EXTINF:0 group-title="_No Group",COMEDY CENTRAL | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...ha/2282.ts
-#EXTINF:0 group-title="_No Group",COMEDY CENTRAL | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2967.ts
-#EXTINF:0 group-title="_No Group",DA VINCI LEARNING | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3065.ts
-#EXTINF:0 group-title="_No Group",DISCOVERY | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10897.ts
-#EXTINF:0 group-title="_No Group",DISCOVERY | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13204.ts
-#EXTINF:0 group-title="_No Group",DISCOVERY | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10897.ts
-#EXTINF:0 group-title="_No Group",DISCOVERY CHANNEL | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3062.ts
-#EXTINF:0 group-title="_No Group",DISCOVERY HISTORIA | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3064.ts
-#EXTINF:0 group-title="_No Group",DISCOVERY LIFE | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3063.ts
-#EXTINF:0 group-title="_No Group",DISCOVERY SCIENCE | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10899.ts
-#EXTINF:0 group-title="_No Group",DISCOVERY SCIENCE | HD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10899.ts
-#EXTINF:0 group-title="_No Group",DISCOVERY SCIENCE | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3061.ts
-#EXTINF:0 group-title="_No Group",DISCOVERY SCIENCE | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10934.ts
-#EXTINF:0 group-title="_No Group",DISCOVERY SCIENCE | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10934.ts
-#EXTINF:0 group-title="_No Group",DISCOVERY TURBO XTRA | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10898.ts
-#EXTINF:0 group-title="_No Group",DISCOVERY TURBO XTRA | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13206.ts
-#EXTINF:0 group-title="_No Group",DISCOVERY TURBO XTRA | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10898.ts
-#EXTINF:0 group-title="_No Group",DTX | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3066.ts
-#EXTINF:0 group-title="_No Group",ELEVEN | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10895.ts
-#EXTINF:0 group-title="_No Group",ELEVEN | HD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10895.ts
-#EXTINF:0 group-title="_No Group",ELEVEN | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3055.ts
-#EXTINF:0 group-title="_No Group",ELEVEN EXTRA | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10896.ts
-#EXTINF:0 group-title="_No Group",ELEVEN EXTRA | HD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10896.ts
-#EXTINF:0 group-title="_No Group",ELEVEN EXTRA | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3056.ts
-#EXTINF:0 group-title="_No Group",ESKA BEST TV | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13208.ts
-#EXTINF:0 group-title="_No Group",ESKA PARTY TV | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/2595.ts
-#EXTINF:0 group-title="_No Group",ESKA PARTY TV | HD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...ha/2595.ts
-#EXTINF:0 group-title="_No Group",ESKA PARTY TV | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13209.ts
-#EXTINF:0 group-title="_No Group",ESKA ROCK TV | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/2596.ts
-#EXTINF:0 group-title="_No Group",ESKA ROCK TV | HD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...ha/2596.ts
-#EXTINF:0 group-title="_No Group",ESKA TV | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2965.ts
-#EXTINF:0 group-title="_No Group",FILMBOX | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3043.ts
-#EXTINF:0 group-title="_No Group",FILMBOX | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10891.ts
-#EXTINF:0 group-title="_No Group",FILMBOX | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10891.ts
-#EXTINF:0 group-title="_No Group",FILMBOX ACTION | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3047.ts
-#EXTINF:0 group-title="_No Group",FILMBOX ARTHOUSE | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3046.ts
-#EXTINF:0 group-title="_No Group",FILMBOX EXTRA | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10930.ts
-#EXTINF:0 group-title="_No Group",FILMBOX EXTRA | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3045.ts
-#EXTINF:0 group-title="_No Group",FILMBOX PREMIUM | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10889.ts
-#EXTINF:0 group-title="_No Group",FILMBOX PREMIUM | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3042.ts
-#EXTINF:0 group-title="_No Group",FOKUS TV | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2964.ts
-#EXTINF:0 group-title="_No Group",FOX | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13216.ts
-#EXTINF:0 group-title="_No Group",FOX COMEDY | HD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13217.ts
-#EXTINF:0 group-title="_No Group",FOX COMEDY | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2963.ts
-#EXTINF:0 group-title="_No Group",HBO 1 | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10886.ts
-#EXTINF:0 group-title="_No Group",HBO 1 | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3040.ts
-#EXTINF:0 group-title="_No Group",HBO 2 | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10888.ts
-#EXTINF:0 group-title="_No Group",HBO 2 | HD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10888.ts
-#EXTINF:0 group-title="_No Group",HBO 2 | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3039.ts
-#EXTINF:0 group-title="_No Group",HBO 3 | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10887.ts
-#EXTINF:0 group-title="_No Group",HBO 3 | HD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10887.ts
-#EXTINF:0 group-title="_No Group",HBO 3 | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3038.ts
-#EXTINF:0 group-title="_No Group",HGTV | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3037.ts
-#EXTINF:0 group-title="_No Group",HIP HOP TV | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2962.ts
-#EXTINF:0 group-title="_No Group",HISTORY | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10885.ts
-#EXTINF:0 group-title="_No Group",HISTORY | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3036.ts
-#EXTINF:0 group-title="_No Group",JIMJAM | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2961.ts
-#EXTINF:0 group-title="_No Group",KINO POLSKA | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10884.ts
-#EXTINF:0 group-title="_No Group",KINO POLSKA | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13218.ts
-#EXTINF:0 group-title="_No Group",KINO POLSKA | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2960.ts
-#EXTINF:0 group-title="_No Group",KINO POLSKA MUZYKA | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3035.ts
-#EXTINF:0 group-title="_No Group",KUCHNIA | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10883.ts
-#EXTINF:0 group-title="_No Group",KUCHNIA | HD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10883.ts
-#EXTINF:0 group-title="_No Group",KUCHNIA | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3034.ts
-#EXTINF:0 group-title="_No Group",LECH TV | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2959.ts
-#EXTINF:0 group-title="_No Group",LIFE TIME | HD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10928.ts
-#EXTINF:0 group-title="_No Group",LIFETIME | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3033.ts
-#EXTINF:0 group-title="_No Group",METRO | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2958.ts
-#EXTINF:0 group-title="_No Group",MINI MINI | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10882.ts
-#EXTINF:0 group-title="_No Group",MINI MINI | HD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10882.ts
-#EXTINF:0 group-title="_No Group",MINI MINI | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13219.ts
-#EXTINF:0 group-title="_No Group",MINIMINI | HD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13220.ts
-#EXTINF:0 group-title="_No Group",MINIMINI | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3032.ts
-#EXTINF:0 group-title="_No Group",NAT GEO | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3030.ts
-#EXTINF:0 group-title="_No Group",NAT GEO | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3029.ts
-#EXTINF:0 group-title="_No Group",NAT GEO PEOPLE | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3028.ts
-#EXTINF:0 group-title="_No Group",NAT GEO WILD | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10927.ts
-#EXTINF:0 group-title="_No Group",NAT GEO WILD | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10927.ts
-#EXTINF:0 group-title="_No Group",NAT GEO WILD | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3027.ts
-#EXTINF:0 group-title="_No Group",NAT GEOGRAPHIC | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10881.ts
-#EXTINF:0 group-title="_No Group",NAT GEOGRAPHIC | HD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10881.ts
-#EXTINF:0 group-title="_No Group",NAT GEOGRAPHIC | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13221.ts
-#EXTINF:0 group-title="_No Group",PLANETE | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3026.ts
-#EXTINF:0 group-title="_No Group",PLAY | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3025.ts
-#EXTINF:0 group-title="_No Group",POLO TV | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13222.ts
-#EXTINF:0 group-title="_No Group",POLO TV | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3024.ts
-#EXTINF:0 group-title="_No Group",POLSAT | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/2278.ts
-#EXTINF:0 group-title="_No Group",POLSAT | HD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...ha/2278.ts
-#EXTINF:0 group-title="_No Group",POLSAT | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13223.ts
-#EXTINF:0 group-title="_No Group",POLSAT | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3018.ts
-#EXTINF:0 group-title="_No Group",POLSAT 2 | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10875.ts
-#EXTINF:0 group-title="_No Group",POLSAT 2 | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3023.ts
-#EXTINF:0 group-title="_No Group",POLSAT 2 | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13224.ts
-#EXTINF:0 group-title="_No Group",POLSAT CAFE | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10874.ts
-#EXTINF:0 group-title="_No Group",POLSAT CAFE | HD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10874.ts
-#EXTINF:0 group-title="_No Group",POLSAT CAFE | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3022.ts
-#EXTINF:0 group-title="_No Group",POLSAT CAFE | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/2280.ts
-#EXTINF:0 group-title="_No Group",POLSAT CAFE | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13225.ts
-#EXTINF:0 group-title="_No Group",POLSAT CAFE | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...ha/2280.ts
-#EXTINF:0 group-title="_No Group",POLSAT FILM | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/2279.ts
-#EXTINF:0 group-title="_No Group",POLSAT FILM | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3021.ts
-#EXTINF:0 group-title="_No Group",POLSAT FILM | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10873.ts
-#EXTINF:0 group-title="_No Group",POLSAT FILM | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13226.ts
-#EXTINF:0 group-title="_No Group",POLSAT FILM | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...a/10873.ts
-#EXTINF:0 group-title="_No Group",POLSAT FILM | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3020.ts
-#EXTINF:0 group-title="_No Group",POLSAT PLAY | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10877.ts
-#EXTINF:0 group-title="_No Group",POLSAT PLAY | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3017.ts
-#EXTINF:0 group-title="_No Group",POLSAT PLAY | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/2277.ts
-#EXTINF:0 group-title="_No Group",POLSAT PLAY | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13228.ts
-#EXTINF:0 group-title="_No Group",POLSAT PLAY | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...ha/2277.ts
-#EXTINF:0 group-title="_No Group",POLSAT VIASAT EXPLORE | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10926.ts
-#EXTINF:0 group-title="_No Group",POLSAT VIASAT EXPLORE | HD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13229.ts
-#EXTINF:0 group-title="_No Group",POLSAT VIASAT EXPLORE | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3012.ts
-#EXTINF:0 group-title="_No Group",POLSAT VIASAT HISTORY | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10925.ts
-#EXTINF:0 group-title="_No Group",POLSAT VIASAT NATURE | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10924.ts
-#EXTINF:0 group-title="_No Group",POLSAT VIASAT NATURE | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3011.ts
-#EXTINF:0 group-title="_No Group",PULS 2 | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3010.ts
-#EXTINF:0 group-title="_No Group",ROMANCE | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2952.ts
-#EXTINF:0 group-title="_No Group",SCIFI | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10922.ts
-#EXTINF:0 group-title="_No Group",SCIFI UNIVERSAL | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3008.ts
-#EXTINF:0 group-title="_No Group",STARS TV | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3007.ts
-#EXTINF:0 group-title="_No Group",STOPKLATKA TV | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13231.ts
-#EXTINF:0 group-title="_No Group",STOPKLATKA TV | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3006.ts
-#EXTINF:0 group-title="_No Group",SUNDANCE | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3005.ts
-#EXTINF:0 group-title="_No Group",SUNDANCE TV | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10923.ts
-#EXTINF:0 group-title="_No Group",SUPER POLSAT | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13232.ts
-#EXTINF:0 group-title="_No Group",SUPER POLSAT | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3004.ts
-#EXTINF:0 group-title="_No Group",SUPERSTACJA | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10921.ts
-#EXTINF:0 group-title="_No Group",TELETOON | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2976.ts
-#EXTINF:0 group-title="_No Group",TLC | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10869.ts
-#EXTINF:0 group-title="_No Group",TLC | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3003.ts
-#EXTINF:0 group-title="_No Group",TNT | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10920.ts
-#EXTINF:0 group-title="_No Group",TNT | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3002.ts
-#EXTINF:0 group-title="_No Group",TNT | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3001.ts
-#EXTINF:0 group-title="_No Group",TRAVEL | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2950.ts
-#EXTINF:0 group-title="_No Group",TRAVEL CHANNEL | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10919.ts
-#EXTINF:0 group-title="_No Group",TV 4 | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10868.ts
-#EXTINF:0 group-title="_No Group",TV 4 | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/3000.ts
-#EXTINF:0 group-title="_No Group",TV 4 | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10862.ts
-#EXTINF:0 group-title="_No Group",TV ASTA | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10863.ts
-#EXTINF:0 group-title="_No Group",TV ASTA | HD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13234.ts
-#EXTINF:0 group-title="_No Group",TV PULS | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10867.ts
-#EXTINF:0 group-title="_No Group",TV PULS | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2999.ts
-#EXTINF:0 group-title="_No Group",TV REPUBLIKA | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13235.ts
-#EXTINF:0 group-title="_No Group",TV REPUBLIKA | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2998.ts
-#EXTINF:0 group-title="_No Group",TV TRWAM | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2949.ts
-#EXTINF:0 group-title="_No Group",TV4 | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2997.ts
-#EXTINF:0 group-title="_No Group",TV4 | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13236.ts
-#EXTINF:0 group-title="_No Group",TV6 | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2996.ts
-#EXTINF:0 group-title="_No Group",TVI FICCAO LOCAL | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10866.ts
-#EXTINF:0 group-title="_No Group",TVN | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/2274.ts
-#EXTINF:0 group-title="_No Group",TVN | HD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...ha/2274.ts
-#EXTINF:0 group-title="_No Group",TVN | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2990.ts
-#EXTINF:0 group-title="_No Group",TVN | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2991.ts
-#EXTINF:0 group-title="_No Group",TVN | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10861.ts
-#EXTINF:0 group-title="_No Group",TVN | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13237.ts
-#EXTINF:0 group-title="_No Group",TVN 24 | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2995.ts
-#EXTINF:0 group-title="_No Group",TVN 24 | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13238.ts
-#EXTINF:0 group-title="_No Group",TVN 24 | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2994.ts
-#EXTINF:0 group-title="_No Group",TVN 7 | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13239.ts
-#EXTINF:0 group-title="_No Group",TVN 7 | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2993.ts
-#EXTINF:0 group-title="_No Group",TVN FABULA | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2992.ts
-#EXTINF:0 group-title="_No Group",TVN STYLE | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10860.ts
-#EXTINF:0 group-title="_No Group",TVN STYLE | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/2273.ts
-#EXTINF:0 group-title="_No Group",TVN STYLE | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13240.ts
-#EXTINF:0 group-title="_No Group",TVN STYLE | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...ha/2273.ts
-#EXTINF:0 group-title="_No Group",TVN STYLE | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2989.ts
-#EXTINF:0 group-title="_No Group",TVN TURBO | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10915.ts
-#EXTINF:0 group-title="_No Group",TVN TURBO | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/2272.ts
-#EXTINF:0 group-title="_No Group",TVN TURBO | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13241.ts
-#EXTINF:0 group-title="_No Group",TVN TURBO | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...ha/2272.ts
-#EXTINF:0 group-title="_No Group",TVN TURBO | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2988.ts
-#EXTINF:0 group-title="_No Group",TVN24 BIS | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2987.ts
-#EXTINF:0 group-title="_No Group",TVP | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2983.ts
-#EXTINF:0 group-title="_No Group",TVP 1 | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/2270.ts
-#EXTINF:0 group-title="_No Group",TVP 1 | HD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...ha/2270.ts
-#EXTINF:0 group-title="_No Group",TVP 1 | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2986.ts
-#EXTINF:0 group-title="_No Group",TVP 1 | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10859.ts
-#EXTINF:0 group-title="_No Group",TVP 1 | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13242.ts
-#EXTINF:0 group-title="_No Group",TVP 2 | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10865.ts
-#EXTINF:0 group-title="_No Group",TVP 2 | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2985.ts
-#EXTINF:0 group-title="_No Group",TVP 2 | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13243.ts
-#EXTINF:0 group-title="_No Group",TVP 3 | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10857.ts
-#EXTINF:0 group-title="_No Group",TVP 3 | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13244.ts
-#EXTINF:0 group-title="_No Group",TVP 3 | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2978.ts
-#EXTINF:0 group-title="_No Group",TVP HISTORIA | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2948.ts
-#EXTINF:0 group-title="_No Group",TVP HISTORIE | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10856.ts
-#EXTINF:0 group-title="_No Group",TVP HISTORIE | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13245.ts
-#EXTINF:0 group-title="_No Group",TVP INFO | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13246.ts
-#EXTINF:0 group-title="_No Group",TVP INFO | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2947.ts
-#EXTINF:0 group-title="_No Group",TVP KULTURA | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2982.ts
-#EXTINF:0 group-title="_No Group",TVP ROZRYWKA | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13247.ts
-#EXTINF:0 group-title="_No Group",TVP ROZRYWKA | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2981.ts
-#EXTINF:0 group-title="_No Group",TVP SERIALE | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/2271.ts
-#EXTINF:0 group-title="_No Group",TVP SERIALE | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13248.ts
-#EXTINF:0 group-title="_No Group",TVP SERIALE | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...ha/2271.ts
-#EXTINF:0 group-title="_No Group",TVP SERIALE | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2980.ts
-#EXTINF:0 group-title="_No Group",TVP3 | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/2268.ts
-#EXTINF:0 group-title="_No Group",TVP3 | SD (_No Group)
-http://ns3074107.ip-217-182-173.eu:8000/...ha/2268.ts
-#EXTINF:0 group-title="_No Group",TVS | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13250.ts
-#EXTINF:0 group-title="_No Group",TVS | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2977.ts
-#EXTINF:0 group-title="_No Group",TWOJA TV | SD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10918.ts
-#EXTINF:0 group-title="_No Group",UNIVERSAL | HD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2975.ts
-#EXTINF:0 group-title="_No Group",UNIVERSAL CHANNEL | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/10854.ts
-#EXTINF:0 group-title="_No Group",VIVA POLSKA | SD (_No Group)
-http://fserver.yellowiptv.com:80/live/hl...e/13251.ts
-#EXTINF:0 group-title="_No Group",VIVA POLSKA | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2946.ts
-#EXTINF:0 group-title="_No Group",WAWA TV | HD (_No Group)
-http://217.182.173.184:8000/live/micha/micha/2599.ts
-#EXTINF:0 group-title="_No Group",WTK | SD (_No Group)
-http://eviptv.tk:25461/live/almanturk158...24/2945.ts
+
+#EXTINF:0,TVP FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2949.ts
+
+#EXTINF:0,TVP 1 PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2951.ts
+
+#EXTINF:0,TVP 2 FULL HD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2950.ts
+
+#EXTINF:0,TVP 3 PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5460.ts
+
+#EXTINF:0,TVP 3 Warszawa PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5459.ts
+
+#EXTINF:0,TVP ABC PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5452.ts
+
+#EXTINF:0,TVP Historia PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5453.ts
+
+#EXTINF:0,TVP Info FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5455.ts
+
+#EXTINF:0,TVP Info PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5454.ts
+
+#EXTINF:0,TVP Kultura PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5456.ts
+
+#EXTINF:0,TVP Polonia PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5457.ts
+
+#EXTINF:0,TVP Rozrywka PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5464.ts
+
+#EXTINF:0,TVP Seriale PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5463.ts
+
+#EXTINF:0,TVN FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2953.ts
+
+#EXTINF:0,TVN 7 FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2955.ts
+
+#EXTINF:0,TV Puls HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2959.ts
+
+#EXTINF:0,TV6 FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2957.ts
+
+#EXTINF:0,Nowa TV PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5445.ts
+
+#EXTINF:0,Stopklatka TV PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5447.ts
+
+#EXTINF:0,Superstacja PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5448.ts
+
+#EXTINF:0,Polsat PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2978.ts
+
+#EXTINF:0,Plus 2 PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5323.ts
+
+#EXTINF:0,Polsat FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5446.ts
+
+#EXTINF:0,Polsat 2 FHD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2977.ts
+
+#EXTINF:0,TV4 HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2958.ts
+
+#EXTINF:0,Polsat Cafe HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2976.ts
+
+#EXTINF:0,Polsat Play FHD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2973.ts
+
+#EXTINF:0,TVN STYLE HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5287.ts
+
+#EXTINF:0,TVN STYLE FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5288.ts
+
+#EXTINF:0,TVN Turbo FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2952.ts
+
+#EXTINF:0,Travel PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2960.ts
+
+#EXTINF:0,Adventure HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2938.ts
+
+#EXTINF:0,Domo+ FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2909.ts
+
+#EXTINF:0,E! FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5291.ts
+
+#EXTINF:0,HGTV FHD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2989.ts
+
+#EXTINF:0,Kuchnia + FHD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2987.ts
+
+#EXTINF:0,Super Polsat FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2964.ts
+
+#EXTINF:0,Polsat News FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5305.ts
+
+#EXTINF:0,Polsat News FULL HD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5306.ts
+
+#EXTINF:0,Polsat News 2 PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5307.ts
+
+#EXTINF:0,TVN 24 BiS FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5308.ts
+
+#EXTINF:0,TVN 24 FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2956.ts
+
+#EXTINF:0,TVN Fabula FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2954.ts
+
+#EXTINF:0,TTV FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5449.ts
+
+#EXTINF:0,TV Republika PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5450.ts
+
+#EXTINF:0,TV Trwam PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5451.ts
+
+#EXTINF:0,TVS PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5462.ts
+
+#EXTINF:0,WP PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5461.ts
+
+#EXTINF:0,Ale Kino FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2937.ts
+
+#EXTINF:0,Canal+ FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2925.ts
+
+#EXTINF:0,Canal +1 HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2929.ts
+
+#EXTINF:0,CANAL+ FAMILY HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2927.ts
+
+#EXTINF:0,Canal Seriale FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2924.ts
+
+#EXTINF:0,Canal+ Film HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2926.ts
+
+#EXTINF:0,CineMax 1 FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2916.ts
+
+#EXTINF:0,Cinemax 2 FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2915.ts
+
+#EXTINF:0,HBO 1 HD FULL HD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2992.ts
+
+#EXTINF:0,HBO 2 FHD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2991.ts
+
+#EXTINF:0,HBO 3 FHD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2990.ts
+
+#EXTINF:0,Canal Sport HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2921.ts
+
+#EXTINF:0,Canal+ Sport FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2922.ts
+
+#EXTINF:0,Canal+ Sport 2 FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2923.ts
+
+#EXTINF:0,Eleven Sports 1 FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2906.ts
+
+#EXTINF:0,Eleven Sports 2 FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2905.ts
+
+#EXTINF:0,Eleven Sports 3 FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2904.ts
+
+#EXTINF:0,Eleven Sports 4 FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2903.ts
+
+#EXTINF:0,EuroSport 1 FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2902.ts
+
+#EXTINF:0,Golf Channel FHD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5326.ts
+
+#EXTINF:0,EuroSport 2 FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2901.ts
+
+#EXTINF:0,nSport FHD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2981.ts
+
+#EXTINF:0,Polsat Sport HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2970.ts
+
+#EXTINF:0,Polsat Sport Extra FHD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2972.ts
+
+#EXTINF:0,Polsat Sport News HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2969.ts
+
+#EXTINF:0,Sport Klub FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2966.ts
+
+#EXTINF:0,TVP Sport FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2948.ts
+
+#EXTINF:0,Extreme Sports FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2900.ts
+
+#EXTINF:0,POLSAT Sport Fight FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2971.ts
+
+#EXTINF:0,Fightbox FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2897.ts
+
+#EXTINF:0,Fight Network FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2898.ts
+
+#EXTINF:0,Fight Channel World HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2899.ts
+
+#EXTINF:0,ATM Rozrywka TV PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5327.ts
+
+#EXTINF:0,Motorwizja PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5313.ts
+
+#EXTINF:0,Animal Planet HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2936.ts
+
+#EXTINF:0,BBC HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2930.ts
+
+#EXTINF:0,BBC Earth HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2931.ts
+
+#EXTINF:0,CBS Reality PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2917.ts
+
+#EXTINF:0,DA VINCI LEARNING
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5300.ts
+
+#EXTINF:0,Discovery Channel FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5409.ts
+
+#EXTINF:0,Canal Discovery FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2928.ts
+
+#EXTINF:0,Discovery Life FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2912.ts
+
+#EXTINF:0,Discovery Science FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2911.ts
+
+#EXTINF:0,Investigation Discovery PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5293.ts
+
+#EXTINF:0,Investigation Discovery FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5292.ts
+
+#EXTINF:0,Discovery Historia PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5444.ts
+
+#EXTINF:0,HISTORY PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5299.ts
+
+#EXTINF:0,HISTORY FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5298.ts
+
+#EXTINF:0,DTX FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2908.ts
+
+#EXTINF:0,H2 FHD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2993.ts
+
+#EXTINF:0,Nat Geo FHD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2983.ts
+
+#EXTINF:0,Nat Geo Wild PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5320.ts
+
+#EXTINF:0,Nat Geo Wild FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5321.ts
+
+#EXTINF:0,Nat Geo People FHD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2982.ts
+
+#EXTINF:0,Planete + FHD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2979.ts
+
+#EXTINF:0,Polsat Doku FULL HD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5304.ts
+
+#EXTINF:0,POLSAT Viasat Nature PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5314.ts
+
+#EXTINF:0,POLSAT Viasat Explore FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2968.ts
+
+#EXTINF:0,POLSAT Viasat History FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5315.ts
+
+#EXTINF:0,13 Ulica FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2939.ts
+
+#EXTINF:0,AXN Black PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2935.ts
+
+#EXTINF:0,AXN White PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2932.ts
+
+#EXTINF:0,AXN HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2934.ts
+
+#EXTINF:0,AXN Spin FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2933.ts
+
+#EXTINF:0,Comedy Central PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2914.ts
+
+#EXTINF:0,Comedy Central Family FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2913.ts
+
+#EXTINF:0,AMC PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5317.ts
+
+#EXTINF:0,Fox PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5311.ts
+
+#EXTINF:0,Fox FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5312.ts
+
+#EXTINF:0,Fox Comedy PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2994.ts
+
+#EXTINF:0,Lifetime FHD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2986.ts
+
+#EXTINF:0,Polsat Film FHD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2975.ts
+
+#EXTINF:0,Polsat Romans PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5303.ts
+
+#EXTINF:0,TLC FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2962.ts
+
+#EXTINF:0,CBS Action PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2919.ts
+
+#EXTINF:0,CBS Europa FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2918.ts
+
+#EXTINF:0,Filmbox Action PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2896.ts
+
+#EXTINF:0,FilmBox Arthouse PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2895.ts
+
+#EXTINF:0,Filmbox Family PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2893.ts
+
+#EXTINF:0,Filmbox PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2892.ts
+
+#EXTINF:0,Filmbox Premium PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2891.ts
+
+#EXTINF:0,Filmbox Extra PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2894.ts
+
+#EXTINF:0,Kino Polska PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2988.ts
+
+#EXTINF:0,Paramount Channel HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2980.ts
+
+#EXTINF:0,Paramount Channel FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5322.ts
+
+#EXTINF:0,SciFi Universal PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5302.ts
+
+#EXTINF:0,Sundance FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2965.ts
+
+#EXTINF:0,Romance FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2967.ts
+
+#EXTINF:0,Universal FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2947.ts
+
+#EXTINF:0,Stars TV PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/3355.ts
+
+#EXTINF:0,TNT FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2961.ts
+
+#EXTINF:0,Zest PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5324.ts
+
+#EXTINF:0,Zoom TV PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5325.ts
+
+#EXTINF:0,|PL| VOD 202
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2946.ts
+
+#EXTINF:0,|PL| VOD 204
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2945.ts
+
+#EXTINF:0,|PL| VOD 205
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2944.ts
+
+#EXTINF:0,|PL| VOD 207
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2942.ts
+
+#EXTINF:0,|PL| VOD 208
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2941.ts
+
+#EXTINF:0,4Fun TV PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/3356.ts
+
+#EXTINF:0,4Fun Dance PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/3358.ts
+
+#EXTINF:0,4Fun Gold Hits PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/3357.ts
+
+#EXTINF:0,Disco Polo Music HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/3202.ts
+
+#EXTINF:0,Kino Polska Muzyka PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5319.ts
+
+#EXTINF:0,Eska TV PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/3349.ts
+
+#EXTINF:0,MTV POLSKA FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5296.ts
+
+#EXTINF:0,MTV Dance HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5295.ts
+
+#EXTINF:0,VH1 HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2984.ts
+
+#EXTINF:0,VOX Music TV PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/3354.ts
+
+#EXTINF:0,HIP HOP TV PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5297.ts
+
+#EXTINF:0,METRO PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5294.ts
+
+#EXTINF:0,Polo TV PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/3204.ts
+
+#EXTINF:0,Polo Party TV PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/3203.ts
+
+#EXTINF:0,Power TV PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5301.ts
+
+#EXTINF:0,Boomerang PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5443.ts
+
+#EXTINF:0,Cartoon Network HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5458.ts
+
+#EXTINF:0,Cartoon Network FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2920.ts
+
+#EXTINF:0,Disney Channel FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2910.ts
+
+#EXTINF:0,DISNEY JUNIOR PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5289.ts
+
+#EXTINF:0,DISNEY XD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5290.ts
+
+#EXTINF:0,Cbeebies PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5318.ts
+
+#EXTINF:0,POLSAT JimJam PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5316.ts
+
+#EXTINF:0,MiniMini FHD
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2985.ts
+
+#EXTINF:0,Nickelodeon FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5310.ts
+
+#EXTINF:0,Nick JR PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/5309.ts
+
+#EXTINF:0,TeleToon FULL HD PL
+
+http://king365tv.homeip.net:2103/live/test91427/mailtest/2963.ts
+
