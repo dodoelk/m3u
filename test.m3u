@@ -1,694 +1,590 @@
 #EXTM3U
 
-#EXTINF:0,TVP FULL HD PL
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2949.ts
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="13 Ulica HD PL" tvg-logo="http://picon.space/13ulicahd.png" group-title="Poland",13 Ulica HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15100.ts
 
-#EXTINF:0,TVP 1 PL
+#EXTINF:-1 tvg-id="4FunFitDance.pl" tvg-name="4 Fun Dance PL" tvg-logo="http://picon.space/4funfitanddance.png" group-title="Poland",4 Fun Dance PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/16291.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2951.ts
+#EXTINF:-1 tvg-id="4FunHits.pl" tvg-name="4 Fun Gold Hits PL" tvg-logo="http://picon.space/4fungoldhits.png" group-title="Poland",4 Fun Gold Hits PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/16290.ts
 
-#EXTINF:0,TVP 2 FULL HD
+#EXTINF:-1 tvg-id="4funTV.pl" tvg-name="4 Fun TV PL" tvg-logo="http://picon.space/4funtv.png" group-title="Poland",4 Fun TV PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/16289.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2950.ts
+#EXTINF:-1 tvg-id="" tvg-name="Active Family PL" tvg-logo="" group-title="Poland",Active Family PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/20423.ts
 
-#EXTINF:0,TVP 3 PL
+#EXTINF:-1 tvg-id="Adventure.pl" tvg-name="Adventure HD PL" tvg-logo="http://picon.space/adventurehd.png" group-title="Poland",Adventure HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15205.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5460.ts
+#EXTINF:-1 tvg-id="AleKino.pl" tvg-name="Ale kino+ HD PL" tvg-logo="http://picon.space/alekinoplushd.png" group-title="Poland",Ale kino+ HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15219.ts
 
-#EXTINF:0,TVP 3 Warszawa PL
+#EXTINF:-1 tvg-id="AMC.pl" tvg-name="AMC Polska PL" tvg-logo="http://picon.space/amc.png" group-title="Poland",AMC Polska PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15218.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5459.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.pl" tvg-name="Animal Planet HD PL" tvg-logo="http://picon.space/animalplanethd.png" group-title="Poland",Animal Planet HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/13540.ts
 
-#EXTINF:0,TVP ABC PL
+#EXTINF:-1 tvg-id="ATMRozrywka.pl" tvg-name="ATM Rozrywka PL" tvg-logo="http://picon.space/atmrozrywka.png" group-title="Poland",ATM Rozrywka PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/17040.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5452.ts
+#EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="AXN Black PL" tvg-logo="http://picon.space/axnblack.png" group-title="Poland",AXN Black PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11512.ts
 
-#EXTINF:0,TVP Historia PL
+#EXTINF:-1 tvg-id="AXN.pl" tvg-name="AXN Polska HD PL" tvg-logo="http://picon.space/axnhd.png" group-title="Poland",AXN Polska HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11699.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5453.ts
+#EXTINF:-1 tvg-id="AXN.pl" tvg-name="AXN Polska PL" tvg-logo="http://picon.space/axn.png" group-title="Poland",AXN Polska PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11511.ts
 
-#EXTINF:0,TVP Info FULL HD PL
+#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-name="AXN Spin HD PL" tvg-logo="http://picon.space/axnspinhd.png" group-title="Poland",AXN Spin HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11629.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5455.ts
+#EXTINF:-1 tvg-id="AXNWhite.pl" tvg-name="AXN White PL" tvg-logo="http://picon.space/axnwhite.png" group-title="Poland",AXN White PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11513.ts
 
-#EXTINF:0,TVP Info PL
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV PL" tvg-logo="" group-title="Poland",Baby TV PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/22303.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5454.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Brit Polska FHD PL" tvg-logo="" group-title="Poland",BBC Brit Polska FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/23317.ts
 
-#EXTINF:0,TVP Kultura PL
+#EXTINF:-1 tvg-id="" tvg-name="BBC CBeebies PL" tvg-logo="" group-title="Poland",BBC CBeebies PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/23427.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5456.ts
+#EXTINF:-1 tvg-id="BBCEarth.pl" tvg-name="BBC Earth PL" tvg-logo="http://picon.space/bbcearth.png" group-title="Poland",BBC Earth PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/13538.ts
 
-#EXTINF:0,TVP Polonia PL
+#EXTINF:-1 tvg-id="BBC.pl" tvg-name="BBC HD PL" tvg-logo="http://picon.space/bbchd.png" group-title="Poland",BBC HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/13537.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5457.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle Polska FHD PL" tvg-logo="" group-title="Poland",BBC Lifestyle Polska FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/23318.ts
 
-#EXTINF:0,TVP Rozrywka PL
+#EXTINF:-1 tvg-id="Boomerang.pl" tvg-name="Boomerang HD PL" tvg-logo="http://picon.space/boomerang.png" group-title="Poland",Boomerang HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11522.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5464.ts
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="Canal + 1 HD PL" tvg-logo="http://picon.space/canalplus1hd.png" group-title="Poland",Canal + 1 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15204.ts
 
-#EXTINF:0,TVP Seriale PL
+#EXTINF:-1 tvg-id="CanalPlusDiscovery.pl" tvg-name="Canal + Discovery PL" tvg-logo="http://picon.space/canalplusdiscoveryhd.png" group-title="Poland",Canal + Discovery PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15217.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5463.ts
+#EXTINF:-1 tvg-id="CanalPlusFamily.pl" tvg-name="Canal + Family HD PL" tvg-logo="http://picon.space/canalplusfamily.png" group-title="Poland",Canal + Family HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15216.ts
 
-#EXTINF:0,TVN FULL HD PL
+#EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="Canal + Film HD PL" tvg-logo="http://picon.space/canalplusfilmhd.png" group-title="Poland",Canal + Film HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15215.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2953.ts
+#EXTINF:-1 tvg-id="CanalPlus.pl" tvg-name="Canal + HD PL" tvg-logo="http://picon.space/canalplushd.png" group-title="Poland",Canal + HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/13530.ts
 
-#EXTINF:0,TVN 7 FULL HD PL
+#EXTINF:-1 tvg-id="CanalPlusSeriale.pl" tvg-name="Canal + Seriale HD PL" tvg-logo="http://picon.space/canalplusserialehd.png" group-title="Poland",Canal + Seriale HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15214.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2955.ts
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="Canal + Sport HD PL" tvg-logo="http://picon.space/canalplussport.png" group-title="Poland",Canal + Sport HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/13535.ts
 
-#EXTINF:0,TV Puls HD PL
+#EXTINF:-1 tvg-id="CanalPlusSport 2.pl" tvg-name="CANAL+ Sport 2 HD PL" tvg-logo="http://picon.space/canalplussport2hd.png" group-title="Poland",CANAL+ Sport 2 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15709.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2959.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.pl" tvg-name="Cartoon Network HD PL" tvg-logo="http://picon.space/cartoonnethd.png" group-title="Poland",Cartoon Network HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15203.ts
 
-#EXTINF:0,TV6 FULL HD PL
+#EXTINF:-1 tvg-id="CBSAction.pl" tvg-name="CBS Action PL" tvg-logo="http://picon.space/cbsaction.png" group-title="Poland",CBS Action PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/16288.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2957.ts
+#EXTINF:-1 tvg-id="CBSEuropa.pl" tvg-name="CBS Europa HD PL" tvg-logo="http://picon.space/cbseuropa.png" group-title="Poland",CBS Europa HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15202.ts
 
-#EXTINF:0,Nowa TV PL
+#EXTINF:-1 tvg-id="CBSReality.pl" tvg-name="CBS Reality PL" tvg-logo="http://picon.space/cbsreality.png" group-title="Poland",CBS Reality PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11518.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5445.ts
+#EXTINF:-1 tvg-id="Cinemax2.pl" tvg-name="Cinemax 2 HD PL" tvg-logo="http://picon.space/cinemax2hd.png" group-title="Poland",Cinemax 2 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15099.ts
 
-#EXTINF:0,Stopklatka TV PL
+#EXTINF:-1 tvg-id="Cinemax.pl" tvg-name="Cinemax HD PL" tvg-logo="http://picon.space/cinemaxhd.png" group-title="Poland",Cinemax HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15710.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5447.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN FHD PL" tvg-logo="" group-title="Poland",CNN FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/23319.ts
 
-#EXTINF:0,Superstacja PL
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Family Polska FHD PL" tvg-logo="" group-title="Poland",Comedy Central Family Polska FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/22770.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5448.ts
+#EXTINF:-1 tvg-id="ComedyCentralFamily.pl" tvg-name="Comedy Central Family Polska PL" tvg-logo="http://picon.space/comedycentralfamilypl.png" group-title="Poland",Comedy Central Family Polska PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11704.ts
 
-#EXTINF:0,Polsat PL
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Polska FHD PL" tvg-logo="" group-title="Poland",Comedy Central Polska FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/22771.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2978.ts
+#EXTINF:-1 tvg-id="ComedyCentral.pl" tvg-name="Comedy Central Polska PL" tvg-logo="http://picon.space/comedycentral.png" group-title="Poland",Comedy Central Polska PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11707.ts
 
-#EXTINF:0,Plus 2 PL
+#EXTINF:-1 tvg-id="DaVinciLearning.pl" tvg-name="Da Vinci Learning PL" tvg-logo="http://picon.space/davincilearning.png" group-title="Poland",Da Vinci Learning PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15182.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5323.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disco Polo Music PL" tvg-logo="" group-title="Poland",Disco Polo Music PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/22765.ts
 
-#EXTINF:0,Polsat FULL HD PL
+#EXTINF:-1 tvg-id="Discovery.pl" tvg-name="Discovery Channel HD PL" tvg-logo="http://picon.space/discoverychannelhd.png" group-title="Poland",Discovery Channel HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15213.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5446.ts
+#EXTINF:-1 tvg-id="DiscoveryHistoria.pl" tvg-name="Discovery Historia PL" tvg-logo="http://picon.space/discoveryhistoria.png" group-title="Poland",Discovery Historia PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15098.ts
 
-#EXTINF:0,Polsat 2 FHD
+#EXTINF:-1 tvg-id="DiscoveryLife.pl" tvg-name="Discovery Life PL" tvg-logo="http://picon.space/discoverylife.png" group-title="Poland",Discovery Life PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11520.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2977.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.pl" tvg-name="Discovery Science HD PL" tvg-logo="http://picon.space/discoverysciencehd.png" group-title="Poland",Discovery Science HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15201.ts
 
-#EXTINF:0,TV4 HD PL
+#EXTINF:-1 tvg-id="DiscoveryTurboXtra.pl" tvg-name="Discovery Turbo Xtra HD PL" tvg-logo="http://picon.space/discoveryturboxtrahd.png" group-title="Poland",Discovery Turbo Xtra HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15212.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2958.ts
+#EXTINF:-1 tvg-id="DiscoveryTurboXtra.pl" tvg-name="Discovery Turbo Xtra PL" tvg-logo="http://picon.space/discoveryturboxtra.png" group-title="Poland",Discovery Turbo Xtra PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11196.ts
 
-#EXTINF:0,Polsat Cafe HD PL
+#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="Disney Channel HD PL" tvg-logo="http://picon.space/disneychannelhd.png" group-title="Poland",Disney Channel HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11523.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2976.ts
+#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="Disney Junior PL" tvg-logo="http://picon.space/disneyjunior.png" group-title="Poland",Disney Junior PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15200.ts
 
-#EXTINF:0,Polsat Play FHD
+#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD PL" tvg-logo="http://picon.space/disneyxd.png" group-title="Poland",Disney XD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11524.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2973.ts
+#EXTINF:-1 tvg-id="Domo.pl" tvg-name="Domo+ HD PL" tvg-logo="http://picon.space/domoplushd.png" group-title="Poland",Domo+ HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15199.ts
 
-#EXTINF:0,TVN STYLE HD PL
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment FHD PL" tvg-logo="" group-title="Poland",E! Entertainment FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/22302.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5287.ts
+#EXTINF:-1 tvg-id="Eleven.pl" tvg-name="Eleven Sports 1 HD PL" tvg-logo="http://picon.space/eleven.png" group-title="Poland",Eleven Sports 1 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15198.ts
 
-#EXTINF:0,TVN STYLE FULL HD PL
+#EXTINF:-1 tvg-id="ElevenSport.pl" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="http://picon.space/elevensports.png" group-title="Poland",Eleven Sports 2 FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15197.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5288.ts
+#EXTINF:-1 tvg-id="ElevenExtra.pl" tvg-name="Eleven Sports 3 FHD PL" tvg-logo="http://picon.space/elevenextrahd.png" group-title="Poland",Eleven Sports 3 FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15097.ts
 
-#EXTINF:0,TVN Turbo FULL HD PL
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 HD PL" tvg-logo="" group-title="Poland",Eleven Sports 4 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/19149.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2952.ts
+#EXTINF:-1 tvg-id="" tvg-name="Epic Drama PL" tvg-logo="" group-title="Poland",Epic Drama PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/19081.ts
 
-#EXTINF:0,Travel PL
+#EXTINF:-1 tvg-id="" tvg-name="Eska Rock TV PL" tvg-logo="http://picon.space/hiphoptvpl.png" group-title="Poland",Eska Rock TV PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/12818.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2960.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eska TV Extra PL" tvg-logo="http://picon.space/eskatv.png" group-title="Poland",Eska TV Extra PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11182.ts
 
-#EXTINF:0,Adventure HD PL
+#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="Eska TV PL" tvg-logo="http://picon.space/8tvpl.png" group-title="Poland",Eska TV PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11197.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2938.ts
+#EXTINF:-1 tvg-id="Eurosport1.pl" tvg-name="Eurosport 1 HD PL" tvg-logo="http://picon.space/eurosport1hd.png" group-title="Poland",Eurosport 1 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15096.ts
 
-#EXTINF:0,Domo+ FULL HD PL
+#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="Eurosport 2 HD PL" tvg-logo="http://picon.space/eurosport2hd.png" group-title="Poland",Eurosport 2 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15195.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2909.ts
+#EXTINF:-1 tvg-id="ExtremeSportsChannel.pl" tvg-name="Extreme Sports HD PL" tvg-logo="http://picon.space/extremesportshd.png" group-title="Poland",Extreme Sports HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15194.ts
 
-#EXTINF:0,E! FULL HD PL
+#EXTINF:-1 tvg-id="FightKlub.pl" tvg-name="Fight Klub HD PL" tvg-logo="http://picon.space/fightklubhdpl.png" group-title="Poland",Fight Klub HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15193.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5291.ts
+#EXTINF:-1 tvg-id="Filmbox.pl" tvg-name="FightBox HD PL" tvg-logo="http://picon.space/fightboxhd.png" group-title="Poland",FightBox HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15095.ts
 
-#EXTINF:0,HGTV FHD
+#EXTINF:-1 tvg-id="FilmBoxAction.pl" tvg-name="FilmBox Action PL" tvg-logo="http://picon.space/filmboxaction.png" group-title="Poland",FilmBox Action PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11508.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2989.ts
+#EXTINF:-1 tvg-id="FilmboxArthouse.pl" tvg-name="FilmBox Arthouse PL" tvg-logo="http://picon.space/filmboxarthouse.png" group-title="Poland",FilmBox Arthouse PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/16287.ts
 
-#EXTINF:0,Kuchnia + FHD
+#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-name="FilmBox Family PL" tvg-logo="http://picon.space/filmboxfamily.png" group-title="Poland",FilmBox Family PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11509.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2987.ts
+#EXTINF:-1 tvg-id="FilmboxPremium.pl" tvg-name="FilmBox Premium PL" tvg-logo="http://picon.space/filmboxpremium.png" group-title="Poland",FilmBox Premium PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11510.ts
 
-#EXTINF:0,Super Polsat FULL HD PL
+#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="Fokus TV PL" tvg-logo="http://picon.space/fokustv.png" group-title="Poland",Fokus TV PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/12821.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2964.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD PL" tvg-logo="" group-title="Poland",Food Network FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/22764.ts
 
-#EXTINF:0,Polsat News FULL HD PL
+#EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="FOX Comedy Polska HD PL" tvg-logo="http://picon.space/foxcomedyhd.png" group-title="Poland",FOX Comedy Polska HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11698.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5305.ts
+#EXTINF:-1 tvg-id="FoxComedy.pl" tvg-name="FOX Comedy Polska PL" tvg-logo="http://picon.space/foxcomedy.png" group-title="Poland",FOX Comedy Polska PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11634.ts
 
-#EXTINF:0,Polsat News FULL HD
+#EXTINF:-1 tvg-id="FOX.pl" tvg-name="FOX Polska HD PL" tvg-logo="http://picon.space/foxhd.png" group-title="Poland",FOX Polska HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11697.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5306.ts
+#EXTINF:-1 tvg-id="H2.pl" tvg-name="H2 Polska HD PL" tvg-logo="http://picon.space/h2hd.png" group-title="Poland",H2 Polska HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15093.ts
 
-#EXTINF:0,Polsat News 2 PL
+#EXTINF:-1 tvg-id="HBO2.pl" tvg-name="HBO 2 HD PL" tvg-logo="http://picon.space/hbo2hd.png" group-title="Poland",HBO 2 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/13527.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5307.ts
+#EXTINF:-1 tvg-id="HBO3.pl" tvg-name="HBO 3 HD PL" tvg-logo="http://picon.space/hbo3hd.png" group-title="Poland",HBO 3 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15092.ts
 
-#EXTINF:0,TVN 24 BiS FULL HD PL
+#EXTINF:-1 tvg-id="HBO.pl" tvg-name="HBO HD PL" tvg-logo="http://picon.space/hbo1hd.png" group-title="Poland",HBO HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/13526.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5308.ts
+#EXTINF:-1 tvg-id="HGTV.pl" tvg-name="HGTV HD  PL" tvg-logo="http://picon.space/hgtv.png" group-title="Poland",HGTV HD  PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11188.ts
 
-#EXTINF:0,TVN 24 FULL HD PL
+#EXTINF:-1 tvg-id="History.pl" tvg-name="History HD PL" tvg-logo="http://picon.space/historyhd.png" group-title="Poland",History HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15091.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2956.ts
+#EXTINF:-1 tvg-id="History.pl" tvg-name="History PL" tvg-logo="http://picon.space/history.png" group-title="Poland",History PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/16286.ts
 
-#EXTINF:0,TVN Fabula FULL HD PL
+#EXTINF:-1 tvg-id="InvestigationDiscovery.pl" tvg-name="Investigation Discovery HD PL" tvg-logo="http://picon.space/investigationdiscoveryhd.png" group-title="Poland",Investigation Discovery HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15211.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2954.ts
+#EXTINF:-1 tvg-id="JimJam.pl" tvg-name="JimJam Polsat PL" tvg-logo="http://picon.space/jimjampolsat.png" group-title="Poland",JimJam Polsat PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11710.ts
 
-#EXTINF:0,TTV FULL HD PL
+#EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-name="Kino Polska Muzyka PL" tvg-logo="http://picon.space/kinopolskamuzyka.png" group-title="Poland",Kino Polska Muzyka PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15090.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5449.ts
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino Polska PL" tvg-logo="http://picon.space/kinopolska.png" group-title="Poland",Kino Polska PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11192.ts
 
-#EXTINF:0,TV Republika PL
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="Kino TV PL" tvg-logo="http://picon.space/filmbox.png" group-title="Poland",Kino TV PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11507.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5450.ts
+#EXTINF:-1 tvg-id="KuchniaPlus.pl" tvg-name="Kuchnia + FHD PL" tvg-logo="http://picon.space/kuchniaplushd.png" group-title="Poland",Kuchnia + FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15210.ts
 
-#EXTINF:0,TV Trwam PL
+#EXTINF:-1 tvg-id="Lifetime.pl" tvg-name="Lifetime HD PL" tvg-logo="http://picon.space/lifetimehd.png" group-title="Poland",Lifetime HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15089.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5451.ts
+#EXTINF:-1 tvg-id="Metro.pl" tvg-name="Metro PL" tvg-logo="http://picon.space/metrotv.png" group-title="Poland",Metro PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11195.ts
 
-#EXTINF:0,TVS PL
+#EXTINF:-1 tvg-id="Minimini.pl" tvg-name="MiniMini + HD PL" tvg-logo="http://picon.space/miniminiplushd.png" group-title="Poland",MiniMini + HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15088.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5462.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motowizja FHD PL" tvg-logo="" group-title="Poland",Motowizja FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/19153.ts
 
-#EXTINF:0,WP PL
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD PL" tvg-logo="" group-title="Poland",MTV Live HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/20424.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5461.ts
+#EXTINF:-1 tvg-id="MTVPolska.pl" tvg-name="MTV Polska FHD PL" tvg-logo="http://picon.space/mtvpolska.png" group-title="Poland",MTV Polska FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11702.ts
 
-#EXTINF:0,Ale Kino FULL HD PL
+#EXTINF:-1 tvg-id="MTVLive.pl" tvg-name="MTV Rocks PL" tvg-logo="http://picon.space/mtvlivehd.png" group-title="Poland",MTV Rocks PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11703.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2937.ts
+#EXTINF:-1 tvg-id="nSport.pl" tvg-name="N Sport + HD PL" tvg-logo="http://picon.space/nsportplushd.png" group-title="Poland",N Sport + HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15209.ts
 
-#EXTINF:0,Canal+ FULL HD PL
+#EXTINF:-1 tvg-id="NatGeo.pl" tvg-name="National Geographic HD PL" tvg-logo="http://picon.space/nationalgeographichd.png" group-title="Poland",National Geographic HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15087.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2925.ts
+#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="National Geographic People HD PL" tvg-logo="http://picon.space/natgeopeoplehd.png" group-title="Poland",National Geographic People HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15191.ts
 
-#EXTINF:0,Canal +1 HD PL
+#EXTINF:-1 tvg-id="NatGeo.pl" tvg-name="National Geographic Polska PL" tvg-logo="http://picon.space/natgeo.png" group-title="Poland",National Geographic Polska PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11515.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2929.ts
+#EXTINF:-1 tvg-id="NatGeoWild.pl" tvg-name="National Geographic Wild HD PL" tvg-logo="http://picon.space/natgeowildhd.png" group-title="Poland",National Geographic Wild HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15711.ts
 
-#EXTINF:0,CANAL+ FAMILY HD PL
+#EXTINF:-1 tvg-id="NatGeoWild.pl" tvg-name="National Geographic Wild PL" tvg-logo="http://picon.space/natgeowild.png" group-title="Poland",National Geographic Wild PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11516.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2927.ts
+#EXTINF:-1 tvg-id="NickJr.pl" tvg-name="Nick Jr PL" tvg-logo="http://picon.space/nickjr.png" group-title="Poland",Nick Jr PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11706.ts
 
-#EXTINF:0,Canal Seriale FULL HD PL
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon PL" tvg-logo="http://picon.space/nickelodeon.png" group-title="Poland",Nickelodeon PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11705.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2924.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons Polska FHD PL" tvg-logo="" group-title="Poland",Nicktoons Polska FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/22772.ts
 
-#EXTINF:0,Canal+ Film HD PL
+#EXTINF:-1 tvg-id="" tvg-name="Nowa TV PL" tvg-logo="" group-title="Poland",Nowa TV PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/22768.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2926.ts
+#EXTINF:-1 tvg-id="NTLRadomsko.pl" tvg-name="NTL PL" tvg-logo="http://picon.space/ntl.png" group-title="Poland",NTL PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15190.ts
 
-#EXTINF:0,CineMax 1 FULL HD PL
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel Polska FHD PL" tvg-logo="" group-title="Poland",Paramount Channel Polska FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/22769.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2916.ts
+#EXTINF:-1 tvg-id="Planete+.pl" tvg-name="Planete + Polska HD PL" tvg-logo="http://picon.space/planeteplushd.png" group-title="Poland",Planete + Polska HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15208.ts
 
-#EXTINF:0,Cinemax 2 FULL HD PL
+#EXTINF:-1 tvg-id="PoloTV.pl" tvg-name="Polo TV PL" tvg-logo="http://picon.space/polotv.png" group-title="Poland",Polo TV PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/13517.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2915.ts
+#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="Polonia 1 PL" tvg-logo="http://picon.space/polonia1.png" group-title="Poland",Polonia 1 PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11711.ts
 
-#EXTINF:0,HBO 1 HD FULL HD
+#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2 HD PL" tvg-logo="http://picon.space/polsat2hd.png" group-title="Poland",Polsat 2 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/12817.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2992.ts
+#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2 PL" tvg-logo="http://picon.space/polsat2.png" group-title="Poland",Polsat 2 PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11185.ts
 
-#EXTINF:0,HBO 2 FHD
+#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="Polsat Café HD PL" tvg-logo="http://picon.space/polsatcafehd.png" group-title="Poland",Polsat Café HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11198.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2991.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Doku HD PL" tvg-logo="" group-title="Poland",Polsat Doku HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/20123.ts
 
-#EXTINF:0,HBO 3 FHD
+#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="Polsat Film HD PL" tvg-logo="http://picon.space/polsatfilmhd.png" group-title="Poland",Polsat Film HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15086.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2990.ts
+#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="Polsat Film PL" tvg-logo="http://picon.space/polsatfilm.png" group-title="Poland",Polsat Film PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11183.ts
 
-#EXTINF:0,Canal Sport HD PL
+#EXTINF:-1 tvg-id="Polsat PL" tvg-name="Polsat HD PL" tvg-logo="http://picon.space/polsathd.png" group-title="Poland",Polsat HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11696.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2921.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Music HD PL" tvg-logo="" group-title="Poland",Polsat Music HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/21527.ts
 
-#EXTINF:0,Canal+ Sport FULL HD PL
+#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2 PL" tvg-logo="http://picon.space/polsatnews2.png" group-title="Poland",Polsat News 2 PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11181.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2922.ts
+#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News HD PL" tvg-logo="http://picon.space/polsatnewshd.png" group-title="Poland",Polsat News HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15085.ts
 
-#EXTINF:0,Canal+ Sport 2 FULL HD PL
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat PL" tvg-logo="http://picon.space/polsat.png" group-title="Poland",Polsat PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11186.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2923.ts
+#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Polsat Play HD PL" tvg-logo="http://picon.space/polsatplayhd.png" group-title="Poland",Polsat Play HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11177.ts
 
-#EXTINF:0,Eleven Sports 1 FULL HD PL
+#EXTINF:-1 tvg-id="PolsatPlay.pl" tvg-name="Polsat Play PL" tvg-logo="http://picon.space/polsatplay.png" group-title="Poland",Polsat Play PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11180.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2906.ts
+#EXTINF:-1 tvg-id="Polsat Romans.pl" tvg-name="Polsat Romans PL" tvg-logo="http://picon.space/polsatromans.png" group-title="Poland",Polsat Romans PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11709.ts
 
-#EXTINF:0,Eleven Sports 2 FULL HD PL
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="Polsat Sport Extra HD PL" tvg-logo="http://picon.space/polsatsportextrahd.png" group-title="Poland",Polsat Sport Extra HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11201.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2905.ts
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight HD PL" tvg-logo="http://picon.space/polsatsportfighthd.png" group-title="Poland",Polsat Sport Fight HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15188.ts
 
-#EXTINF:0,Eleven Sports 3 FULL HD PL
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport HD PL" tvg-logo="http://picon.space/polsatsporthd.png" group-title="Poland",Polsat Sport HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11200.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2904.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport News FHD PL" tvg-logo="" group-title="Poland",Polsat Sport News FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/22762.ts
 
-#EXTINF:0,Eleven Sports 4 FULL HD PL
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport PL" tvg-logo="" group-title="Poland",Polsat Sport PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/17470.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2903.ts
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 1 FHD PL" tvg-logo="" group-title="Poland",Polsat Sport Premium 1 FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/23369.ts
 
-#EXTINF:0,EuroSport 1 FULL HD PL
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 2 FHD PL" tvg-logo="" group-title="Poland",Polsat Sport Premium 2 FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/23370.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2902.ts
+#EXTINF:-1 tvg-id="PolsatViasatHist.pl" tvg-name="Polsat Viasat History HD PL" tvg-logo="http://picon.space/polsatviasathistory.png" group-title="Poland",Polsat Viasat History HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15084.ts
 
-#EXTINF:0,Golf Channel FHD PL
+#EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="Power TV PL" tvg-logo="http://picon.space/powertv.png" group-title="Poland",Power TV PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15187.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5326.ts
+#EXTINF:-1 tvg-id="RomanceTV.pl" tvg-name="Romance TV Polska HD PL" tvg-logo="http://picon.space/romancetvhd.png" group-title="Poland",Romance TV Polska HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15207.ts
 
-#EXTINF:0,EuroSport 2 FULL HD PL
+#EXTINF:-1 tvg-id="" tvg-name="Scifi Universal HD PL" tvg-logo="" group-title="Poland",Scifi Universal HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/20124.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2901.ts
+#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="Sport Klub Polska HD PL" tvg-logo="http://picon.space/sportklub.png" group-title="Poland",Sport Klub Polska HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/16835.ts
 
-#EXTINF:0,nSport FHD
+#EXTINF:-1 tvg-id="StarsTV.pl" tvg-name="Stars TV PL" tvg-logo="http://picon.space/starstv.png" group-title="Poland",Stars TV PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15082.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2981.ts
+#EXTINF:-1 tvg-id="Stopklatka.pl" tvg-name="Stopklatka TV PL" tvg-logo="http://picon.space/stopklatkatv.png" group-title="Poland",Stopklatka TV PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/16284.ts
 
-#EXTINF:0,Polsat Sport HD PL
+#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="Super Polsat HD PL" tvg-logo="http://picon.space/superpolsatpl.png" group-title="Poland",Super Polsat HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11199.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2970.ts
+#EXTINF:-1 tvg-id="Tele5.pl" tvg-name="Tele 5 PL" tvg-logo="http://picon.space/tele5-lichoridas.png" group-title="Poland",Tele 5 PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11630.ts
 
-#EXTINF:0,Polsat Sport Extra FHD
+#EXTINF:-1 tvg-id="Teletoon.pl" tvg-name="Teletoon + HD PL" tvg-logo="http://picon.space/teletoonplushd-lichoridas.png" group-title="Poland",Teletoon + HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15206.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2972.ts
+#EXTINF:-1 tvg-id="TLC.pl" tvg-name="TLC HD PL" tvg-logo="http://picon.space/tlchd.png" group-title="Poland",TLC HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15080.ts
 
-#EXTINF:0,Polsat Sport News HD PL
+#EXTINF:-1 tvg-id="TLC.pl" tvg-name="TLC PL" tvg-logo="http://picon.space/tlc.png" group-title="Poland",TLC PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11632.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2969.ts
+#EXTINF:-1 tvg-id="TNT.pl" tvg-name="TNT HD PL" tvg-logo="http://picon.space/tnthd.png" group-title="Poland",TNT HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15184.ts
 
-#EXTINF:0,Sport Klub FULL HD PL
+#EXTINF:-1 tvg-id="TOTV.pl" tvg-name="TOTV PL" tvg-logo="http://picon.space/totvpl.png" group-title="Poland",TOTV PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15183.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2966.ts
+#EXTINF:-1 tvg-id="TraceUrban.pl" tvg-name="Trace Urban PL" tvg-logo="http://picon.space/traceurban.png" group-title="Poland",Trace Urban PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15079.ts
 
-#EXTINF:0,TVP Sport FULL HD PL
+#EXTINF:-1 tvg-id="TravelChannel.pl" tvg-name="Travel Channel FHD PL" tvg-logo="" group-title="Poland",Travel Channel FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/18389.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2948.ts
+#EXTINF:-1 tvg-id="TTV.pl" tvg-name="TTV HD PL" tvg-logo="http://picon.space/ttv.png" group-title="Poland",TTV HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15181.ts
 
-#EXTINF:0,Extreme Sports FULL HD PL
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV 4 HD PL" tvg-logo="http://picon.space/tv4hd.png" group-title="Poland",TV 4 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11178.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2900.ts
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV 4 PL" tvg-logo="http://picon.space/tv4.png" group-title="Poland",TV 4 PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11179.ts
 
-#EXTINF:0,POLSAT Sport Fight FULL HD PL
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="TV 6 HD PL" tvg-logo="" group-title="Poland",TV 6 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/18393.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2971.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Okazje PL" tvg-logo="" group-title="Poland",TV Okazje PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/22766.ts
 
-#EXTINF:0,Fightbox FULL HD PL
+#EXTINF:-1 tvg-id="TVPuls2.pl" tvg-name="TV Puls 2 PL" tvg-logo="http://picon.space/puls2.png" group-title="Poland",TV Puls 2 PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15185.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2897.ts
+#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="TV Puls HD PL" tvg-logo="http://picon.space/tvplushdpl.png" group-title="Poland",TV Puls HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/16606.ts
 
-#EXTINF:0,Fight Network FULL HD PL
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika PL" tvg-logo="http://picon.space/tvrepublika.png" group-title="Poland",TV Republika PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/16283.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2898.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV6 HD PL" tvg-logo="" group-title="Poland",TV6 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/19082.ts
 
-#EXTINF:0,Fight Channel World HD PL
+#EXTINF:-1 tvg-id="TVN24.pl" tvg-name="TVN 24 HD PL" tvg-logo="http://picon.space/tvn24hd.png" group-title="Poland",TVN 24 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15180.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2899.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVN 24 PL" tvg-logo="" group-title="Poland",TVN 24 PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/19086.ts
 
-#EXTINF:0,ATM Rozrywka TV PL
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="TVN 7 HD PL" tvg-logo="http://picon.space/tvn7hd.png" group-title="Poland",TVN 7 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15179.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5327.ts
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="TVN 7 PL" tvg-logo="http://picon.space/tvn7.png" group-title="Poland",TVN 7 PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/13539.ts
 
-#EXTINF:0,Motorwizja PL
+#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="TVN Fabuła HD PL" tvg-logo="http://picon.space/tvnfabula.png" group-title="Poland",TVN Fabuła HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15178.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5313.ts
+#EXTINF:-1 tvg-id="TVN.pl" tvg-name="TVN HD PL" tvg-logo="http://picon.space/tvnhd.png" group-title="Poland",TVN HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15177.ts
 
-#EXTINF:0,Animal Planet HD PL
+#EXTINF:-1 tvg-id="" tvg-name="TVN PL" tvg-logo="" group-title="Poland",TVN PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/19087.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2936.ts
+#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="TVN Style HD PL" tvg-logo="http://picon.space/tvnstylehd.png" group-title="Poland",TVN Style HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15176.ts
 
-#EXTINF:0,BBC HD PL
+#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="TVN Style PL" tvg-logo="http://picon.space/tvnstyle.png" group-title="Poland",TVN Style PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11173.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2930.ts
+#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-name="TVN Turbo HD PL" tvg-logo="http://picon.space/tvnturbohd.png" group-title="Poland",TVN Turbo HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15175.ts
 
-#EXTINF:0,BBC Earth HD PL
+#EXTINF:-1 tvg-id="" tvg-name="TVN Turbo PL" tvg-logo="" group-title="Poland",TVN Turbo PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/19085.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2931.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVN24Bis HD PL" tvg-logo="" group-title="Poland",TVN24Bis HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/19152.ts
 
-#EXTINF:0,CBS Reality PL
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP 1 HD PL" tvg-logo="http://picon.space/tvp1hd.png" group-title="Poland",TVP 1 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/12810.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2917.ts
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP 2 HD PL" tvg-logo="http://picon.space/tvp2hd.png" group-title="Poland",TVP 2 HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/12811.ts
 
-#EXTINF:0,DA VINCI LEARNING
+#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="TVP 3 Warszawa PL" tvg-logo="http://picon.space/tvp3.png" group-title="Poland",TVP 3 Warszawa PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15077.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5300.ts
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC PL" tvg-logo="http://picon.space/tvpabc.png" group-title="Poland",TVP ABC PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15076.ts
 
-#EXTINF:0,Discovery Channel FULL HD PL
+#EXTINF:-1 tvg-id="TVP.pl" tvg-name="TVP HD PL" tvg-logo="" group-title="Poland",TVP HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/18392.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5409.ts
+#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="TVP Historia PL" tvg-logo="http://picon.space/tvphistoria.png" group-title="Poland",TVP Historia PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15075.ts
 
-#EXTINF:0,Canal Discovery FULL HD PL
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info HD PL" tvg-logo="http://picon.space/tvpinfohdpl.png" group-title="Poland",TVP Info HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15078.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2928.ts
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info PL" tvg-logo="http://picon.space/tvpinfo.png" group-title="Poland",TVP Info PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15074.ts
 
-#EXTINF:0,Discovery Life FULL HD PL
+#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="TVP Rozrywka PL" tvg-logo="http://picon.space/tvprozrywka.png" group-title="Poland",TVP Rozrywka PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/16282.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2912.ts
+#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="TVP Seriale PL" tvg-logo="http://picon.space/tvpseriale.png" group-title="Poland",TVP Seriale PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11514.ts
 
-#EXTINF:0,Discovery Science FULL HD PL
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport HD PL" tvg-logo="http://picon.space/tvpsporthd.png" group-title="Poland",TVP Sport HD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/12826.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2911.ts
+#EXTINF:-1 tvg-id="TVS.pl" tvg-name="TVS PL" tvg-logo="http://picon.space/tvs.png" group-title="Poland",TVS PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/12820.ts
 
-#EXTINF:0,Investigation Discovery PL
+#EXTINF:-1 tvg-id="VH1.pl" tvg-name="VH1 Polska PL" tvg-logo="http://picon.space/vh1.png" group-title="Poland",VH1 Polska PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11701.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5293.ts
+#EXTINF:-1 tvg-id="PolsatViasatExpl.pl" tvg-name="Viasat Explore Polsat FHD PL" tvg-logo="" group-title="Poland",Viasat Explore Polsat FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/18387.ts
 
-#EXTINF:0,Investigation Discovery FULL HD PL
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature Polsat FHD PL" tvg-logo="" group-title="Poland",Viasat Nature Polsat FHD PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/22763.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5292.ts
+#EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-name="Viasat Nature Polsat PL" tvg-logo="" group-title="Poland",Viasat Nature Polsat PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/18388.ts
 
-#EXTINF:0,Discovery Historia PL
+#EXTINF:-1 tvg-id="" tvg-name="VOD 205 PL" tvg-logo="http://picon.space/vod150.png" group-title="Poland",VOD 205 PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/16279.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5444.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 206 PL" tvg-logo="http://picon.space/vod150.png" group-title="Poland",VOD 206 PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/16278.ts
 
-#EXTINF:0,HISTORY PL
+#EXTINF:-1 tvg-id="" tvg-name="VOD 207 PL" tvg-logo="http://picon.space/vod150.png" group-title="Poland",VOD 207 PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/16277.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5299.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOD 208 PL" tvg-logo="" group-title="Poland",VOD 208 PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/23299.ts
 
-#EXTINF:0,HISTORY FULL HD PL
+#EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-name="VOX Music TV PL" tvg-logo="http://picon.space/voxmusic.png" group-title="Poland",VOX Music TV PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15174.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5298.ts
+#EXTINF:-1 tvg-id="" tvg-name="Water Planet PL" tvg-logo="" group-title="Poland",Water Planet PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/22767.ts
 
-#EXTINF:0,DTX FULL HD PL
+#EXTINF:-1 tvg-id="WellbeingNetwork.pl" tvg-name="Wellbeing Network PL" tvg-logo="http://picon.space/wellbeing.png" group-title="Poland",Wellbeing Network PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/16274.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2908.ts
+#EXTINF:-1 tvg-id="WP.pl" tvg-name="WP TELEWIZJA PL" tvg-logo="http://picon.space/cbsdrama.png" group-title="Poland",WP TELEWIZJA PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/11517.ts
 
-#EXTINF:0,H2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="WPolsce.pl" tvg-logo="" group-title="Poland",WPolsce.pl
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/19084.ts
 
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2993.ts
+#EXTINF:-1 tvg-id="ZestTV.pl" tvg-name="Zest TV PL" tvg-logo="http://picon.space/zesttv.png" group-title="Poland",Zest TV PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/15072.ts
 
-#EXTINF:0,Nat Geo FHD
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2983.ts
-
-#EXTINF:0,Nat Geo Wild PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5320.ts
-
-#EXTINF:0,Nat Geo Wild FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5321.ts
-
-#EXTINF:0,Nat Geo People FHD
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2982.ts
-
-#EXTINF:0,Planete + FHD
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2979.ts
-
-#EXTINF:0,Polsat Doku FULL HD
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5304.ts
-
-#EXTINF:0,POLSAT Viasat Nature PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5314.ts
-
-#EXTINF:0,POLSAT Viasat Explore FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2968.ts
-
-#EXTINF:0,POLSAT Viasat History FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5315.ts
-
-#EXTINF:0,13 Ulica FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2939.ts
-
-#EXTINF:0,AXN Black PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2935.ts
-
-#EXTINF:0,AXN White PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2932.ts
-
-#EXTINF:0,AXN HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2934.ts
-
-#EXTINF:0,AXN Spin FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2933.ts
-
-#EXTINF:0,Comedy Central PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2914.ts
-
-#EXTINF:0,Comedy Central Family FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2913.ts
-
-#EXTINF:0,AMC PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5317.ts
-
-#EXTINF:0,Fox PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5311.ts
-
-#EXTINF:0,Fox FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5312.ts
-
-#EXTINF:0,Fox Comedy PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2994.ts
-
-#EXTINF:0,Lifetime FHD
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2986.ts
-
-#EXTINF:0,Polsat Film FHD
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2975.ts
-
-#EXTINF:0,Polsat Romans PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5303.ts
-
-#EXTINF:0,TLC FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2962.ts
-
-#EXTINF:0,CBS Action PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2919.ts
-
-#EXTINF:0,CBS Europa FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2918.ts
-
-#EXTINF:0,Filmbox Action PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2896.ts
-
-#EXTINF:0,FilmBox Arthouse PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2895.ts
-
-#EXTINF:0,Filmbox Family PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2893.ts
-
-#EXTINF:0,Filmbox PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2892.ts
-
-#EXTINF:0,Filmbox Premium PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2891.ts
-
-#EXTINF:0,Filmbox Extra PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2894.ts
-
-#EXTINF:0,Kino Polska PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2988.ts
-
-#EXTINF:0,Paramount Channel HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2980.ts
-
-#EXTINF:0,Paramount Channel FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5322.ts
-
-#EXTINF:0,SciFi Universal PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5302.ts
-
-#EXTINF:0,Sundance FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2965.ts
-
-#EXTINF:0,Romance FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2967.ts
-
-#EXTINF:0,Universal FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2947.ts
-
-#EXTINF:0,Stars TV PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/3355.ts
-
-#EXTINF:0,TNT FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2961.ts
-
-#EXTINF:0,Zest PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5324.ts
-
-#EXTINF:0,Zoom TV PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5325.ts
-
-#EXTINF:0,|PL| VOD 202
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2946.ts
-
-#EXTINF:0,|PL| VOD 204
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2945.ts
-
-#EXTINF:0,|PL| VOD 205
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2944.ts
-
-#EXTINF:0,|PL| VOD 207
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2942.ts
-
-#EXTINF:0,|PL| VOD 208
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2941.ts
-
-#EXTINF:0,4Fun TV PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/3356.ts
-
-#EXTINF:0,4Fun Dance PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/3358.ts
-
-#EXTINF:0,4Fun Gold Hits PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/3357.ts
-
-#EXTINF:0,Disco Polo Music HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/3202.ts
-
-#EXTINF:0,Kino Polska Muzyka PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5319.ts
-
-#EXTINF:0,Eska TV PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/3349.ts
-
-#EXTINF:0,MTV POLSKA FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5296.ts
-
-#EXTINF:0,MTV Dance HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5295.ts
-
-#EXTINF:0,VH1 HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2984.ts
-
-#EXTINF:0,VOX Music TV PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/3354.ts
-
-#EXTINF:0,HIP HOP TV PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5297.ts
-
-#EXTINF:0,METRO PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5294.ts
-
-#EXTINF:0,Polo TV PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/3204.ts
-
-#EXTINF:0,Polo Party TV PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/3203.ts
-
-#EXTINF:0,Power TV PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5301.ts
-
-#EXTINF:0,Boomerang PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5443.ts
-
-#EXTINF:0,Cartoon Network HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5458.ts
-
-#EXTINF:0,Cartoon Network FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2920.ts
-
-#EXTINF:0,Disney Channel FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2910.ts
-
-#EXTINF:0,DISNEY JUNIOR PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5289.ts
-
-#EXTINF:0,DISNEY XD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5290.ts
-
-#EXTINF:0,Cbeebies PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5318.ts
-
-#EXTINF:0,POLSAT JimJam PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5316.ts
-
-#EXTINF:0,MiniMini FHD
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2985.ts
-
-#EXTINF:0,Nickelodeon FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5310.ts
-
-#EXTINF:0,Nick JR PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/5309.ts
-
-#EXTINF:0,TeleToon FULL HD PL
-
-http://king365tv.homeip.net:2103/live/test91427/mailtest/2963.ts
-
+#EXTINF:-1 tvg-id="ZoomTV.pl" tvg-name="Zoom TV PL" tvg-logo="http://picon.space/zoomtv.png" group-title="Poland",Zoom TV PL
+http://clientportal.link:80/live/MyHomeTV/d7Jro883/16271.ts
